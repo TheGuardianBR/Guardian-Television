@@ -1,43 +1,1947 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Band BSB HD
-http://dnsl.me:80/6307505/8437228/48940
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Band Bahia HD
-http://dnsl.me:80/6307505/8437228/48948
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Band Campinas FHD
-http://dnsl.me:80/6307505/8437228/49594
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Band Campinas HD
-http://dnsl.me:80/6307505/8437228/48941
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Band Curitiba HD
-http://dnsl.me:80/6307505/8437228/49590
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Band RJ FHD
-http://dnsl.me:80/6307505/8437228/48939
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Band RJ HD
-http://dnsl.me:80/6307505/8437228/48942
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Band RS HD
-http://dnsl.me:80/6307505/8437228/48943
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Band SP FHD
-http://dnsl.me:80/6307505/8437228/62827
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Band SP HD
-http://dnsl.me:80/6307505/8437228/48945
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Band Sergipe HD
-http://dnsl.me:80/6307505/8437228/48946
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Band TV Goiânia HD
-http://dnsl.me:80/6307505/8437228/48938
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Band TV Taroba HD
-http://dnsl.me:80/6307505/8437228/48947
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Band Tv Goiânia FHD [H265]
-http://dnsl.me:80/6307505/8437228/63970
-#EXTINF:-1 tvg-logo="https://url.gratis/drbDB" group-title="Canais | Abertos",Bandeirantes SD
-http://dnsl.me:80/6307505/8437228/49375
-#EXTINF:-1 tvg-logo="https://url.gratis/botsEh" group-title="Canais | Abertos",CATVE HD
-http://dnsl.me:80/6307505/8437228/49273
-#EXTINF:-1 tvg-logo="https://url.gratis/JqtWbw" group-title="Canais | Abertos",CNT ES FHD
-http://dnsl.me:80/6307505/8437228/49583
-#EXTINF:-1 tvg-logo="https://url.gratis/JqtWbw" group-title="Canais | Abertos",CNT ES HD
-http://dnsl.me:80/6307505/8437228/49584
-#EXTINF:-1 tvg-logo="https://url.gratis/JqtWbw" group-title="Canais | Abertos",CNT ES SD
-http://dnsl.me:80/6307505/8437228/49585
-#EXTINF:-1 tvg-logo="https://url.gratis/azITOx" group-title="Canais | Abertos",COM Brasil TV FHD
-http://dnsl.me:80/6307505/8437228/48967
-#EXTINF:-1 tvg-logo="https://url.gratis/azITOx" group-title="Canais | Abertos",COM Brasil TV HD
-http://dnsl.me:80/6307505/8437228/48968
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://url.gratis/uNZcar" group-title="Canais | Variedades",A&E FHD
+http://dnsl.me:80/5104215/3138192/4100
+#EXTINF:-1 tvg-id="" tvg-name="A&E FHD [H265]" tvg-logo="https://url.gratis/uNZcar" group-title="Canais | Variedades",A&E FHD [H265]
+http://dnsl.me:80/5104215/3138192/63877
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://url.gratis/uNZcar" group-title="Canais | Variedades",A&E HD
+http://dnsl.me:80/5104215/3138192/4102
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD [Alter]" tvg-logo="https://url.gratis/uNZcar" group-title="Canais | Variedades",A&E HD [Alter]
+http://dnsl.me:80/5104215/3138192/63977
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="https://url.gratis/uNZcar" group-title="Canais | Variedades",A&E SD
+http://dnsl.me:80/5104215/3138192/4103
+#EXTINF:-1 tvg-id="" tvg-name="All KPOP FHD" tvg-logo="https://url.gratis/yqeHcU" group-title="Canais | Variedades",All KPOP FHD
+http://dnsl.me:80/5104215/3138192/48604
+#EXTINF:-1 tvg-id="" tvg-name="All Sports HD" tvg-logo="https://url.gratis/mzvcZH" group-title="Canais | Esportes",All Sports HD
+http://dnsl.me:80/5104215/3138192/48606
+#EXTINF:-1 tvg-id="" tvg-name="AllTV HD" tvg-logo="https://url.gratis/v7R4Ba" group-title="Canais | Variedades",AllTV HD
+http://dnsl.me:80/5104215/3138192/48605
+#EXTINF:-1 tvg-id="" tvg-name="AllTV HD [Alter]" tvg-logo="https://url.gratis/3xrC9T" group-title="Canais | Variedades",AllTV HD [Alter]
+http://dnsl.me:80/5104215/3138192/64001
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://url.gratis/23gWaf" group-title="Canais | Filmes e Séries",AMC FHD
+http://dnsl.me:80/5104215/3138192/3704
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD [H265]" tvg-logo="https://url.gratis/EobfN0" group-title="Canais | Filmes e Séries",AMC FHD [H265]
+http://dnsl.me:80/5104215/3138192/63878
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://url.gratis/23gWaf" group-title="Canais | Filmes e Séries",AMC HD
+http://dnsl.me:80/5104215/3138192/3705
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD [Alter]" tvg-logo="https://url.gratis/EobfN0" group-title="Canais | Filmes e Séries",AMC HD [Alter]
+http://dnsl.me:80/5104215/3138192/64023
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://url.gratis/23gWaf" group-title="Canais | Filmes e Séries",AMC SD
+http://dnsl.me:80/5104215/3138192/4364
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://url.gratis/E0CK3D" group-title="Canais | Documentários",Animal Planet FHD
+http://dnsl.me:80/5104215/3138192/3600
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD [H265]" tvg-logo="https://url.gratis/E0CK3D" group-title="Canais | Documentários",Animal Planet FHD [H265]
+http://dnsl.me:80/5104215/3138192/63879
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://url.gratis/E0CK3D" group-title="Canais | Documentários",Animal Planet HD
+http://dnsl.me:80/5104215/3138192/3601
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD [Alter]" tvg-logo="https://url.gratis/E0CK3D" group-title="Canais | Documentários",Animal Planet HD [Alter]
+http://dnsl.me:80/5104215/3138192/64007
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="https://url.gratis/E0CK3D" group-title="Canais | Documentários",Animal Planet SD
+http://dnsl.me:80/5104215/3138192/4451
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 FHD" tvg-logo="https://url.gratis/vYdUPC" group-title="Canais | Documentários",Arte 1 FHD
+http://dnsl.me:80/5104215/3138192/49270
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD" tvg-logo="https://url.gratis/vYdUPC" group-title="Canais | Documentários",Arte 1 HD
+http://dnsl.me:80/5104215/3138192/4453
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 HD [Alter]" tvg-logo="https://url.gratis/vYdUPC" group-title="Canais | Documentários",Arte 1 HD [Alter]
+http://dnsl.me:80/5104215/3138192/64010
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Arte 1 SD" tvg-logo="https://url.gratis/vYdUPC" group-title="Canais | Documentários",Arte 1 SD
+http://dnsl.me:80/5104215/3138192/49271
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://url.gratis/8oi2Fs" group-title="Canais | Filmes e Séries",AXN FHD
+http://dnsl.me:80/5104215/3138192/3706
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD [H265]" tvg-logo="https://url.gratis/8oi2Fs" group-title="Canais | Filmes e Séries",AXN FHD [H265]
+http://dnsl.me:80/5104215/3138192/63880
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://url.gratis/8oi2Fs" group-title="Canais | Filmes e Séries",AXN HD
+http://dnsl.me:80/5104215/3138192/3707
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD [Alter]" tvg-logo="https://url.gratis/8oi2Fs" group-title="Canais | Filmes e Séries",AXN HD [Alter]
+http://dnsl.me:80/5104215/3138192/64024
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://url.gratis/8oi2Fs" group-title="Canais | Filmes e Séries",AXN SD
+http://dnsl.me:80/5104215/3138192/4362
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BabyTV FHD" tvg-logo="https://url.gratis/21ozpW" group-title="Canais | Infantis",BabyTV FHD
+http://dnsl.me:80/5104215/3138192/25369
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BabyTV HD" tvg-logo="https://url.gratis/21ozpW" group-title="Canais | Infantis",BabyTV HD
+http://dnsl.me:80/5104215/3138192/3866
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV HD [Alter]" tvg-logo="https://url.gratis/21ozpW" group-title="Canais | Infantis",BabyTV HD [Alter]
+http://dnsl.me:80/5104215/3138192/64085
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BabyTV SD" tvg-logo="https://url.gratis/21ozpW" group-title="Canais | Infantis",BabyTV SD
+http://dnsl.me:80/5104215/3138192/25370
+#EXTINF:-1 tvg-id="" tvg-name="Band Bahia HD" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Band Bahia HD
+http://dnsl.me:80/5104215/3138192/48948
+#EXTINF:-1 tvg-id="" tvg-name="Band BSB HD" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Band BSB HD
+http://dnsl.me:80/5104215/3138192/48940
+#EXTINF:-1 tvg-id="" tvg-name="Band Campinas FHD" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Band Campinas FHD
+http://dnsl.me:80/5104215/3138192/49594
+#EXTINF:-1 tvg-id="" tvg-name="Band Campinas HD" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Band Campinas HD
+http://dnsl.me:80/5104215/3138192/48941
+#EXTINF:-1 tvg-id="" tvg-name="Band Curitiba HD" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Band Curitiba HD
+http://dnsl.me:80/5104215/3138192/49590
+#EXTINF:-1 tvg-id="" tvg-name="Band RJ FHD" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Band RJ FHD
+http://dnsl.me:80/5104215/3138192/48939
+#EXTINF:-1 tvg-id="" tvg-name="Band RJ HD" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Band RJ HD
+http://dnsl.me:80/5104215/3138192/48942
+#EXTINF:-1 tvg-id="" tvg-name="Band RS HD" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Band RS HD
+http://dnsl.me:80/5104215/3138192/48943
+#EXTINF:-1 tvg-id="" tvg-name="Band Sergipe HD" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Band Sergipe HD
+http://dnsl.me:80/5104215/3138192/48946
+#EXTINF:-1 tvg-id="" tvg-name="Band SP FHD" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Band SP FHD
+http://dnsl.me:80/5104215/3138192/62827
+#EXTINF:-1 tvg-id="" tvg-name="Band SP HD" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Band SP HD
+http://dnsl.me:80/5104215/3138192/48945
+#EXTINF:-1 tvg-id="" tvg-name="Band Tv Goiânia FHD [H265]" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Band Tv Goiânia FHD [H265]
+http://dnsl.me:80/5104215/3138192/63970
+#EXTINF:-1 tvg-id="" tvg-name="Band TV Goiânia HD" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Band TV Goiânia HD
+http://dnsl.me:80/5104215/3138192/48938
+#EXTINF:-1 tvg-id="" tvg-name="Band TV Taroba HD" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Band TV Taroba HD
+http://dnsl.me:80/5104215/3138192/48947
+#EXTINF:-1 tvg-id="" tvg-name="Bandeirantes SD" tvg-logo="https://url.gratis/gMCw9I" group-title="Canais | Abertos",Bandeirantes SD
+http://dnsl.me:80/5104215/3138192/49375
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews FHD" tvg-logo="https://url.gratis/8rjzVM" group-title="Canais | Notícias",BandNews FHD
+http://dnsl.me:80/5104215/3138192/3558
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews HD" tvg-logo="https://url.gratis/8rjzVM" group-title="Canais | Notícias",BandNews HD
+http://dnsl.me:80/5104215/3138192/3559
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews SD" tvg-logo="https://url.gratis/8rjzVM" group-title="Canais | Notícias",BandNews SD
+http://dnsl.me:80/5104215/3138192/4563
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports FHD" tvg-logo="https://url.gratis/Z576qQ" group-title="Canais | Esportes",BandSports FHD
+http://dnsl.me:80/5104215/3138192/4030
+#EXTINF:-1 tvg-id="" tvg-name="BandSports FHD [H265]" tvg-logo="https://url.gratis/Z576qQ" group-title="Canais | Esportes",BandSports FHD [H265]
+http://dnsl.me:80/5104215/3138192/63881
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports HD" tvg-logo="https://url.gratis/Z576qQ" group-title="Canais | Esportes",BandSports HD
+http://dnsl.me:80/5104215/3138192/3572
+#EXTINF:-1 tvg-id="" tvg-name="BandSports HD [Alter]" tvg-logo="https://url.gratis/Z576qQ" group-title="Canais | Esportes",BandSports HD [Alter]
+http://dnsl.me:80/5104215/3138192/64068
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports SD" tvg-logo="https://url.gratis/Z576qQ" group-title="Canais | Esportes",BandSports SD
+http://dnsl.me:80/5104215/3138192/4504
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="https://url.gratis/1OIgF4" group-title="Canais | Variedades",BIS FHD
+http://dnsl.me:80/5104215/3138192/4104
+#EXTINF:-1 tvg-id="" tvg-name="BIS FHD [H265]" tvg-logo="https://url.gratis/1OIgF4" group-title="Canais | Variedades",BIS FHD [H265]
+http://dnsl.me:80/5104215/3138192/63882
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="https://url.gratis/1OIgF4" group-title="Canais | Variedades",BIS HD
+http://dnsl.me:80/5104215/3138192/4106
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD [Alter]" tvg-logo="https://url.gratis/1OIgF4" group-title="Canais | Variedades",BIS HD [Alter]
+http://dnsl.me:80/5104215/3138192/63978
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="https://url.gratis/1OIgF4" group-title="Canais | Variedades",BIS SD
+http://dnsl.me:80/5104215/3138192/4107
+#EXTINF:-1 tvg-id="" tvg-name="Boa Vontade FHD" tvg-logo="https://url.gratis/cxVIVT" group-title="Canais | Religiosos",Boa Vontade FHD
+http://dnsl.me:80/5104215/3138192/48618
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang FHD" tvg-logo="https://url.gratis/gBeVo4" group-title="Canais | Infantis",Boomerang FHD
+http://dnsl.me:80/5104215/3138192/3862
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang FHD [H265]" tvg-logo="https://url.gratis/gBeVo4" group-title="Canais | Infantis",Boomerang FHD [H265]
+http://dnsl.me:80/5104215/3138192/63883
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="https://url.gratis/gBeVo4" group-title="Canais | Infantis",Boomerang HD
+http://dnsl.me:80/5104215/3138192/3863
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD [Alter]" tvg-logo="https://url.gratis/gBeVo4" group-title="Canais | Infantis",Boomerang HD [Alter]
+http://dnsl.me:80/5104215/3138192/64084
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang SD" tvg-logo="https://url.gratis/gBeVo4" group-title="Canais | Infantis",Boomerang SD
+http://dnsl.me:80/5104215/3138192/4534
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 1" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 1
+http://dnsl.me:80/5104215/3138192/64647
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 10" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 10
+http://dnsl.me:80/5104215/3138192/64648
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 11" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 11
+http://dnsl.me:80/5104215/3138192/64649
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 12" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 12
+http://dnsl.me:80/5104215/3138192/64650
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 13" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 13
+http://dnsl.me:80/5104215/3138192/64651
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 14" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 14
+http://dnsl.me:80/5104215/3138192/64652
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 15" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 15
+http://dnsl.me:80/5104215/3138192/64653
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 16" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 16
+http://dnsl.me:80/5104215/3138192/64654
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 17" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 17
+http://dnsl.me:80/5104215/3138192/64655
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 18" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 18
+http://dnsl.me:80/5104215/3138192/64656
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 19" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 19
+http://dnsl.me:80/5104215/3138192/64657
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 2" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 2
+http://dnsl.me:80/5104215/3138192/64658
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 3" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 3
+http://dnsl.me:80/5104215/3138192/64659
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 4" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 4
+http://dnsl.me:80/5104215/3138192/64660
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 5" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 5
+http://dnsl.me:80/5104215/3138192/64661
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 6" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 6
+http://dnsl.me:80/5104215/3138192/64662
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 7" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 7
+http://dnsl.me:80/5104215/3138192/64663
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 8" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 8
+http://dnsl.me:80/5104215/3138192/64664
+#EXTINF:-1 tvg-id="" tvg-name="BR: Eleven Sports HD 9" tvg-logo="https://url.gratis/eBjUw7" group-title=" Canais | Esportes PPV",BR: Eleven Sports HD 9
+http://dnsl.me:80/5104215/3138192/64665
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 HD" tvg-logo="https://url.gratis/mvH4FW" group-title=" Canais | Esportes PPV",Campeonato Carioca 1 HD
+http://dnsl.me:80/5104215/3138192/49366
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 1 SD" tvg-logo="https://url.gratis/mvH4FW" group-title=" Canais | Esportes PPV",Campeonato Carioca 1 SD
+http://dnsl.me:80/5104215/3138192/49518
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 2 HD" tvg-logo="https://url.gratis/mvH4FW" group-title=" Canais | Esportes PPV",Campeonato Carioca 2 HD
+http://dnsl.me:80/5104215/3138192/49367
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 2 SD" tvg-logo="https://url.gratis/mvH4FW" group-title=" Canais | Esportes PPV",Campeonato Carioca 2 SD
+http://dnsl.me:80/5104215/3138192/49517
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 1" tvg-logo="https://url.gratis/qcLwLY" group-title=" Canais | Esportes PPV",Campeonato Catarinense 1
+http://dnsl.me:80/5104215/3138192/4031
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 2" tvg-logo="https://url.gratis/qcLwLY" group-title=" Canais | Esportes PPV",Campeonato Catarinense 2
+http://dnsl.me:80/5104215/3138192/4032
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 3" tvg-logo="https://url.gratis/qcLwLY" group-title=" Canais | Esportes PPV",Campeonato Catarinense 3
+http://dnsl.me:80/5104215/3138192/4033
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Catarinense 4" tvg-logo="https://url.gratis/qcLwLY" group-title=" Canais | Esportes PPV",Campeonato Catarinense 4
+http://dnsl.me:80/5104215/3138192/28862
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Sergipano 1" tvg-logo="https://url.gratis/2JVAna" group-title=" Canais | Esportes PPV",Campeonato Sergipano 1
+http://dnsl.me:80/5104215/3138192/49535
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Sergipano 2" tvg-logo="https://url.gratis/2JVAna" group-title=" Canais | Esportes PPV",Campeonato Sergipano 2
+http://dnsl.me:80/5104215/3138192/49534
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://url.gratis/C3JT5x" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+http://dnsl.me:80/5104215/3138192/13215
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil FHD [H265]" tvg-logo="https://url.gratis/C3JT5x" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
+http://dnsl.me:80/5104215/3138192/63884
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://url.gratis/C3JT5x" group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://dnsl.me:80/5104215/3138192/5977
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil HD [Alter]" tvg-logo="https://url.gratis/C3JT5x" group-title="Canais | Filmes e Séries",Canal Brasil HD [Alter]
+http://dnsl.me:80/5104215/3138192/64039
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://url.gratis/C3JT5x" group-title="Canais | Filmes e Séries",Canal Brasil SD
+http://dnsl.me:80/5104215/3138192/13214
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi SD" tvg-logo="https://url.gratis/VTI32l" group-title="Canais | Abertos",Canal do Boi SD
+http://dnsl.me:80/5104215/3138192/48961
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural FHD" tvg-logo="https://url.gratis/gUl81W" group-title="Canais | Abertos",Canal Rural FHD
+http://dnsl.me:80/5104215/3138192/49272
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony FHD" tvg-logo="https://url.gratis/EBqadA" group-title="Canais | Filmes e Séries",Canal Sony FHD
+http://dnsl.me:80/5104215/3138192/3726
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony FHD [H265]" tvg-logo="https://url.gratis/EBqadA" group-title="Canais | Filmes e Séries",Canal Sony FHD [H265]
+http://dnsl.me:80/5104215/3138192/63885
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony HD" tvg-logo="https://url.gratis/EBqadA" group-title="Canais | Filmes e Séries",Canal Sony HD
+http://dnsl.me:80/5104215/3138192/3727
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD [Alter]" tvg-logo="https://url.gratis/EBqadA" group-title="Canais | Filmes e Séries",Canal Sony HD [Alter]
+http://dnsl.me:80/5104215/3138192/64032
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony SD" tvg-logo="https://url.gratis/EBqadA" group-title="Canais | Filmes e Séries",Canal Sony SD
+http://dnsl.me:80/5104215/3138192/4346
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova FHD" tvg-logo="https://url.gratis/KOrIxO" group-title="Canais | Religiosos",Canção Nova FHD
+http://dnsl.me:80/5104215/3138192/48620
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova HD" tvg-logo="https://url.gratis/KOrIxO" group-title="Canais | Religiosos",Canção Nova HD
+http://dnsl.me:80/5104215/3138192/48621
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova SD" tvg-logo="https://url.gratis/KOrIxO" group-title="Canais | Religiosos",Canção Nova SD
+http://dnsl.me:80/5104215/3138192/49586
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="https://url.gratis/lEElq1" group-title="Canais | Infantis",Cartoon Network FHD
+http://dnsl.me:80/5104215/3138192/3860
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD [H265]" tvg-logo="https://url.gratis/lEElq1" group-title="Canais | Infantis",Cartoon Network FHD [H265]
+http://dnsl.me:80/5104215/3138192/63886
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://url.gratis/lEElq1" group-title="Canais | Infantis",Cartoon Network HD
+http://dnsl.me:80/5104215/3138192/3861
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD [Alter]" tvg-logo="https://url.gratis/lEElq1" group-title="Canais | Infantis",Cartoon Network HD [Alter]
+http://dnsl.me:80/5104215/3138192/64083
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="https://url.gratis/lEElq1" group-title="Canais | Infantis",Cartoon Network SD
+http://dnsl.me:80/5104215/3138192/4536
+#EXTINF:-1 tvg-id="" tvg-name="CATVE HD" tvg-logo="https://url.gratis/botsEh" group-title="Canais | Abertos",CATVE HD
+http://dnsl.me:80/5104215/3138192/49273
+#EXTINF:-1 tvg-id="" tvg-name="Central / Top TV HD" tvg-logo="https://url.gratis/hBieCm" group-title="Canais | Abertos",Central / Top TV HD
+http://dnsl.me:80/5104215/3138192/49274
+#EXTINF:-1 tvg-id="cheftv.br" tvg-name="Chef TV FHD" tvg-logo="https://url.gratis/QhiNx" group-title="Canais | Variedades",Chef TV FHD
+http://dnsl.me:80/5104215/3138192/25372
+#EXTINF:-1 tvg-id="cheftv.br" tvg-name="Chef TV HD" tvg-logo="https://url.gratis/QhiNx" group-title="Canais | Variedades",Chef TV HD
+http://dnsl.me:80/5104215/3138192/11677
+#EXTINF:-1 tvg-id="" tvg-name="Chef TV HD [Alter]" tvg-logo="https://url.gratis/QhiNx" group-title="Canais | Variedades",Chef TV HD [Alter]
+http://dnsl.me:80/5104215/3138192/64000
+#EXTINF:-1 tvg-id="cheftv.br" tvg-name="Chef TV SD" tvg-logo="https://url.gratis/QhiNx" group-title="Canais | Variedades",Chef TV SD
+http://dnsl.me:80/5104215/3138192/49275
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comédia 01" tvg-logo="https://url.gratis/1GgMlk" group-title="Canais | Cine 24H",Cine Comédia 01
+http://dnsl.me:80/5104215/3138192/64173
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comédia 02" tvg-logo="https://url.gratis/1GgMlk" group-title="Canais | Cine 24H",Cine Comédia 02
+http://dnsl.me:80/5104215/3138192/64174
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comédia 03" tvg-logo="https://url.gratis/1GgMlk" group-title="Canais | Cine 24H",Cine Comédia 03
+http://dnsl.me:80/5104215/3138192/64175
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comédia 04" tvg-logo="https://url.gratis/1GgMlk" group-title="Canais | Cine 24H",Cine Comédia 04
+http://dnsl.me:80/5104215/3138192/64176
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comédia 05" tvg-logo="https://url.gratis/1GgMlk" group-title="Canais | Cine 24H",Cine Comédia 05
+http://dnsl.me:80/5104215/3138192/64177
+#EXTINF:-1 tvg-id="" tvg-name="Cine Comédia 06" tvg-logo="https://url.gratis/1GgMlk" group-title="Canais | Cine 24H",Cine Comédia 06
+http://dnsl.me:80/5104215/3138192/64178
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 01" tvg-logo="https://url.gratis/KjUy0Y" group-title="Canais | Cine 24H",Cine Pipoca 01
+http://dnsl.me:80/5104215/3138192/64163
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 02" tvg-logo="https://url.gratis/46bNsQ" group-title="Canais | Cine 24H",Cine Pipoca 02
+http://dnsl.me:80/5104215/3138192/64165
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 03" tvg-logo="https://url.gratis/46bNsQ" group-title="Canais | Cine 24H",Cine Pipoca 03
+http://dnsl.me:80/5104215/3138192/64166
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 04" tvg-logo="https://url.gratis/46bNsQ" group-title="Canais | Cine 24H",Cine Pipoca 04
+http://dnsl.me:80/5104215/3138192/64167
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 05" tvg-logo="https://url.gratis/46bNsQ" group-title="Canais | Cine 24H",Cine Pipoca 05
+http://dnsl.me:80/5104215/3138192/64171
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 06" tvg-logo="https://url.gratis/46bNsQ" group-title="Canais | Cine 24H",Cine Pipoca 06
+http://dnsl.me:80/5104215/3138192/64168
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 07" tvg-logo="https://url.gratis/46bNsQ" group-title="Canais | Cine 24H",Cine Pipoca 07
+http://dnsl.me:80/5104215/3138192/64164
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 08" tvg-logo="https://url.gratis/46bNsQ" group-title="Canais | Cine 24H",Cine Pipoca 08
+http://dnsl.me:80/5104215/3138192/64169
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 09" tvg-logo="https://url.gratis/46bNsQ" group-title="Canais | Cine 24H",Cine Pipoca 09
+http://dnsl.me:80/5104215/3138192/64170
+#EXTINF:-1 tvg-id="" tvg-name="Cine Pipoca 10" tvg-logo="https://url.gratis/46bNsQ" group-title="Canais | Cine 24H",Cine Pipoca 10
+http://dnsl.me:80/5104215/3138192/64172
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01" tvg-logo="https://url.gratis/8frVA" group-title="Canais | Cine 24H",Cine SKY 01
+http://dnsl.me:80/5104215/3138192/64179
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 02" tvg-logo="https://url.gratis/8frVA" group-title="Canais | Cine 24H",Cine SKY 02
+http://dnsl.me:80/5104215/3138192/64180
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 03" tvg-logo="https://url.gratis/8frVA" group-title="Canais | Cine 24H",Cine SKY 03
+http://dnsl.me:80/5104215/3138192/64181
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 04" tvg-logo="https://url.gratis/8frVA" group-title="Canais | Cine 24H",Cine SKY 04
+http://dnsl.me:80/5104215/3138192/64182
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 05" tvg-logo="https://url.gratis/8frVA" group-title="Canais | Cine 24H",Cine SKY 05
+http://dnsl.me:80/5104215/3138192/64183
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 06" tvg-logo="https://url.gratis/8frVA" group-title="Canais | Cine 24H",Cine SKY 06
+http://dnsl.me:80/5104215/3138192/64184
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 07" tvg-logo="https://url.gratis/8frVA" group-title="Canais | Cine 24H",Cine SKY 07
+http://dnsl.me:80/5104215/3138192/64185
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 08" tvg-logo="https://url.gratis/8frVA" group-title="Canais | Cine 24H",Cine SKY 08
+http://dnsl.me:80/5104215/3138192/64186
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 09" tvg-logo="https://url.gratis/8frVA" group-title="Canais | Cine 24H",Cine SKY 09
+http://dnsl.me:80/5104215/3138192/64187
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 10" tvg-logo="https://url.gratis/8frVA" group-title="Canais | Cine 24H",Cine SKY 10
+http://dnsl.me:80/5104215/3138192/64188
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://url.gratis/Cy4DUq" group-title="Canais | Filmes e Séries",Cinemax FHD
+http://dnsl.me:80/5104215/3138192/3708
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD [H265]" tvg-logo="https://url.gratis/Cy4DUq" group-title="Canais | Filmes e Séries",Cinemax FHD [H265]
+http://dnsl.me:80/5104215/3138192/63887
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://url.gratis/Cy4DUq" group-title="Canais | Filmes e Séries",Cinemax HD
+http://dnsl.me:80/5104215/3138192/3709
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD [Alter]" tvg-logo="https://url.gratis/Cy4DUq" group-title="Canais | Filmes e Séries",Cinemax HD [Alter]
+http://dnsl.me:80/5104215/3138192/64025
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://url.gratis/Cy4DUq" group-title="Canais | Filmes e Séries",Cinemax SD
+http://dnsl.me:80/5104215/3138192/4360
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://url.gratis/ku67h" group-title="Canais | Notícias",CNN Brasil FHD
+http://dnsl.me:80/5104215/3138192/3868
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://url.gratis/CRqth9" group-title="Canais | Notícias",CNN Brasil FHD [H265]
+http://dnsl.me:80/5104215/3138192/63966
+#EXTINF:-1 tvg-id="aande.br" tvg-name="CNN Brasil HD" tvg-logo="https://url.gratis/ku67h" group-title="Canais | Notícias",CNN Brasil HD
+http://dnsl.me:80/5104215/3138192/8060
+#EXTINF:-1 tvg-id="aande.br" tvg-name="CNN Brasil SD" tvg-logo="https://url.gratis/ku67h" group-title="Canais | Notícias",CNN Brasil SD
+http://dnsl.me:80/5104215/3138192/28864
+#EXTINF:-1 tvg-id="" tvg-name="CNT ES FHD" tvg-logo="https://url.gratis/ku67h" group-title="Canais | Abertos",CNT ES FHD
+http://dnsl.me:80/5104215/3138192/49583
+#EXTINF:-1 tvg-id="" tvg-name="CNT ES HD" tvg-logo="https://url.gratis/ku67h" group-title="Canais | Abertos",CNT ES HD
+http://dnsl.me:80/5104215/3138192/49584
+#EXTINF:-1 tvg-id="" tvg-name="CNT ES SD" tvg-logo="https://url.gratis/ku67h" group-title="Canais | Abertos",CNT ES SD
+http://dnsl.me:80/5104215/3138192/49585
+#EXTINF:-1 tvg-id="" tvg-name="COM Brasil TV FHD" tvg-logo="https://url.gratis/ejh3TR" group-title="Canais | Abertos",COM Brasil TV FHD
+http://dnsl.me:80/5104215/3138192/48967
+#EXTINF:-1 tvg-id="" tvg-name="COM Brasil TV HD" tvg-logo="https://url.gratis/ejh3TR" group-title="Canais | Abertos",COM Brasil TV HD
+http://dnsl.me:80/5104215/3138192/48968
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="https://url.gratis/Zl2oSr" group-title="Canais | Esportes",Combate FHD
+http://dnsl.me:80/5104215/3138192/3669
+#EXTINF:-1 tvg-id="" tvg-name="Combate FHD [H265]" tvg-logo="https://url.gratis/Zl2oSr" group-title="Canais | Esportes",Combate FHD [H265]
+http://dnsl.me:80/5104215/3138192/63888
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="https://url.gratis/Zl2oSr" group-title="Canais | Esportes",Combate HD
+http://dnsl.me:80/5104215/3138192/3670
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD [Alter]" tvg-logo="https://url.gratis/Zl2oSr" group-title="Canais | Esportes",Combate HD [Alter]
+http://dnsl.me:80/5104215/3138192/64069
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="https://url.gratis/Zl2oSr" group-title="Canais | Esportes",Combate SD
+http://dnsl.me:80/5104215/3138192/4506
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="https://url.gratis/SZ1Pah" group-title="Canais | Variedades",Comedy Central FHD
+http://dnsl.me:80/5104215/3138192/4110
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD [H265]" tvg-logo="https://url.gratis/SZ1Pah" group-title="Canais | Variedades",Comedy Central FHD [H265]
+http://dnsl.me:80/5104215/3138192/63889
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://url.gratis/SZ1Pah" group-title="Canais | Variedades",Comedy Central HD
+http://dnsl.me:80/5104215/3138192/4112
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD [Alter]" tvg-logo="https://url.gratis/SZ1Pah" group-title="Canais | Variedades",Comedy Central HD [Alter]
+http://dnsl.me:80/5104215/3138192/63979
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="https://url.gratis/SZ1Pah" group-title="Canais | Variedades",Comedy Central SD
+http://dnsl.me:80/5104215/3138192/4113
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 FHD" tvg-logo="https://url.gratis/EyMfM" group-title=" Canais | Esportes PPV",Conmebol TV 1 FHD
+http://dnsl.me:80/5104215/3138192/38561
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 HD" tvg-logo="https://url.gratis/EyMfM" group-title=" Canais | Esportes PPV",Conmebol TV 1 HD
+http://dnsl.me:80/5104215/3138192/38498
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 SD" tvg-logo="https://url.gratis/EyMfM" group-title=" Canais | Esportes PPV",Conmebol TV 1 SD
+http://dnsl.me:80/5104215/3138192/40644
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 FHD" tvg-logo="https://url.gratis/EyMfM" group-title=" Canais | Esportes PPV",Conmebol TV 2 FHD
+http://dnsl.me:80/5104215/3138192/38563
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 HD" tvg-logo="https://url.gratis/EyMfM" group-title=" Canais | Esportes PPV",Conmebol TV 2 HD
+http://dnsl.me:80/5104215/3138192/38503
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 SD" tvg-logo="https://url.gratis/EyMfM" group-title=" Canais | Esportes PPV",Conmebol TV 2 SD
+http://dnsl.me:80/5104215/3138192/40645
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 FHD" tvg-logo="https://url.gratis/EyMfM" group-title=" Canais | Esportes PPV",Conmebol TV 3 FHD
+http://dnsl.me:80/5104215/3138192/38568
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 HD" tvg-logo="https://url.gratis/EyMfM" group-title=" Canais | Esportes PPV",Conmebol TV 3 HD
+http://dnsl.me:80/5104215/3138192/38555
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 SD" tvg-logo="https://url.gratis/EyMfM" group-title=" Canais | Esportes PPV",Conmebol TV 3 SD
+http://dnsl.me:80/5104215/3138192/40646
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 FHD" tvg-logo="https://url.gratis/EyMfM" group-title=" Canais | Esportes PPV",Conmebol TV 4 FHD
+http://dnsl.me:80/5104215/3138192/38567
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 HD" tvg-logo="https://url.gratis/EyMfM" group-title=" Canais | Esportes PPV",Conmebol TV 4 HD
+http://dnsl.me:80/5104215/3138192/38556
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 SD" tvg-logo="https://url.gratis/EyMfM" group-title=" Canais | Esportes PPV",Conmebol TV 4 SD
+http://dnsl.me:80/5104215/3138192/40647
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 1 HD" tvg-logo="https://url.gratis/3N6cg" group-title=" Canais | Esportes PPV",Copa do Nordeste 1 HD
+http://dnsl.me:80/5104215/3138192/25371
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 1 SD" tvg-logo="https://url.gratis/3N6cg" group-title=" Canais | Esportes PPV",Copa do Nordeste 1 SD
+http://dnsl.me:80/5104215/3138192/62609
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2 HD" tvg-logo="https://url.gratis/3N6cg" group-title=" Canais | Esportes PPV",Copa do Nordeste 2 HD
+http://dnsl.me:80/5104215/3138192/25387
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 2 SD" tvg-logo="https://url.gratis/3N6cg" group-title=" Canais | Esportes PPV",Copa do Nordeste 2 SD
+http://dnsl.me:80/5104215/3138192/62610
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 3 HD" tvg-logo="https://url.gratis/3N6cg" group-title=" Canais | Esportes PPV",Copa do Nordeste 3 HD
+http://dnsl.me:80/5104215/3138192/25388
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 3 SD" tvg-logo="https://url.gratis/3N6cg" group-title=" Canais | Esportes PPV",Copa do Nordeste 3 SD
+http://dnsl.me:80/5104215/3138192/62611
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 4 HD" tvg-logo="https://url.gratis/3N6cg" group-title=" Canais | Esportes PPV",Copa do Nordeste 4 HD
+http://dnsl.me:80/5104215/3138192/28861
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 4 SD" tvg-logo="https://url.gratis/3N6cg" group-title=" Canais | Esportes PPV",Copa do Nordeste 4 SD
+http://dnsl.me:80/5104215/3138192/62612
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 5 HD" tvg-logo="https://url.gratis/3N6cg" group-title=" Canais | Esportes PPV",Copa do Nordeste 5 HD
+http://dnsl.me:80/5104215/3138192/49530
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 5 SD" tvg-logo="https://url.gratis/3N6cg" group-title=" Canais | Esportes PPV",Copa do Nordeste 5 SD
+http://dnsl.me:80/5104215/3138192/62613
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 6 HD" tvg-logo="https://url.gratis/3N6cg" group-title=" Canais | Esportes PPV",Copa do Nordeste 6 HD
+http://dnsl.me:80/5104215/3138192/49531
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 6 SD" tvg-logo="https://url.gratis/3N6cg" group-title=" Canais | Esportes PPV",Copa do Nordeste 6 SD
+http://dnsl.me:80/5104215/3138192/62614
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! FHD" tvg-logo="https://url.gratis/CfkulN" group-title="Canais | Variedades",Curta! FHD
+http://dnsl.me:80/5104215/3138192/4455
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! HD" tvg-logo="https://url.gratis/CfkulN" group-title="Canais | Variedades",Curta! HD
+http://dnsl.me:80/5104215/3138192/4457
+#EXTINF:-1 tvg-id="" tvg-name="Curta! HD [Alter]" tvg-logo="https://url.gratis/CfkulN" group-title="Canais | Variedades",Curta! HD [Alter]
+http://dnsl.me:80/5104215/3138192/63998
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="https://url.gratis/CfkulN" group-title="Canais | Variedades",Curta! SD
+http://dnsl.me:80/5104215/3138192/4458
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://url.gratis/5uCAup" group-title=" Canais | Esportes PPV",DAZN 1 HD
+http://dnsl.me:80/5104215/3138192/13946
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://url.gratis/5uCAup" group-title=" Canais | Esportes PPV",DAZN 2 HD
+http://dnsl.me:80/5104215/3138192/48617
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://url.gratis/5uCAup" group-title=" Canais | Esportes PPV",DAZN 3 HD
+http://dnsl.me:80/5104215/3138192/28877
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="https://url.gratis/5uCAup" group-title=" Canais | Esportes PPV",DAZN 4 HD
+http://dnsl.me:80/5104215/3138192/8072
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel FHD" tvg-logo="https://url.gratis/thNCfC" group-title="Canais | Documentários",Discovery Channel FHD
+http://dnsl.me:80/5104215/3138192/4459
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD [H265]" tvg-logo="https://url.gratis/thNCfC" group-title="Canais | Documentários",Discovery Channel FHD [H265]
+http://dnsl.me:80/5104215/3138192/63890
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="https://url.gratis/thNCfC" group-title="Canais | Documentários",Discovery Channel HD
+http://dnsl.me:80/5104215/3138192/4461
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD [Alter]" tvg-logo="https://url.gratis/thNCfC" group-title="Canais | Documentários",Discovery Channel HD [Alter]
+http://dnsl.me:80/5104215/3138192/64011
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel SD" tvg-logo="https://url.gratis/thNCfC" group-title="Canais | Documentários",Discovery Channel SD
+http://dnsl.me:80/5104215/3138192/4462
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H FHD" tvg-logo="https://url.gratis/860gFL" group-title="Canais | Documentários",Discovery H&H FHD
+http://dnsl.me:80/5104215/3138192/4463
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H FHD [H265]" tvg-logo="https://url.gratis/860gFL" group-title="Canais | Documentários",Discovery H&H FHD [H265]
+http://dnsl.me:80/5104215/3138192/63892
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H HD" tvg-logo="https://url.gratis/860gFL" group-title="Canais | Documentários",Discovery H&H HD
+http://dnsl.me:80/5104215/3138192/4465
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H HD [Alter]" tvg-logo="https://url.gratis/860gFL" group-title="Canais | Documentários",Discovery H&H HD [Alter]
+http://dnsl.me:80/5104215/3138192/64012
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H&H SD" tvg-logo="https://url.gratis/860gFL" group-title="Canais | Documentários",Discovery H&H SD
+http://dnsl.me:80/5104215/3138192/4466
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids FHD" tvg-logo="https://url.gratis/C5ncrv" group-title="Canais | Infantis",Discovery Kids FHD
+http://dnsl.me:80/5104215/3138192/3852
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD [H265]" tvg-logo="https://url.gratis/C5ncrv" group-title="Canais | Infantis",Discovery Kids FHD [H265]
+http://dnsl.me:80/5104215/3138192/63893
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="https://url.gratis/C5ncrv" group-title="Canais | Infantis",Discovery Kids HD
+http://dnsl.me:80/5104215/3138192/3853
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD [Alter]" tvg-logo="https://url.gratis/C5ncrv" group-title="Canais | Infantis",Discovery Kids HD [Alter]
+http://dnsl.me:80/5104215/3138192/64079
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="https://url.gratis/C5ncrv" group-title="Canais | Infantis",Discovery Kids SD
+http://dnsl.me:80/5104215/3138192/4538
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science FHD" tvg-logo="https://url.gratis/StZ4yA" group-title="Canais | Documentários",Discovery Science FHD
+http://dnsl.me:80/5104215/3138192/4467
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD [H265]" tvg-logo="https://url.gratis/StZ4yA" group-title="Canais | Documentários",Discovery Science FHD [H265]
+http://dnsl.me:80/5104215/3138192/63894
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="https://url.gratis/StZ4yA" group-title="Canais | Documentários",Discovery Science HD
+http://dnsl.me:80/5104215/3138192/4469
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD [Alter]" tvg-logo="https://url.gratis/StZ4yA" group-title="Canais | Documentários",Discovery Science HD [Alter]
+http://dnsl.me:80/5104215/3138192/64013
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science SD" tvg-logo="https://url.gratis/StZ4yA" group-title="Canais | Documentários",Discovery Science SD
+http://dnsl.me:80/5104215/3138192/4470
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater FHD" tvg-logo="https://url.gratis/UarI96" group-title="Canais | Documentários",Discovery Theater FHD
+http://dnsl.me:80/5104215/3138192/4471
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater FHD [H265]" tvg-logo="https://url.gratis/UarI96" group-title="Canais | Documentários",Discovery Theater FHD [H265]
+http://dnsl.me:80/5104215/3138192/63895
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="https://url.gratis/UarI96" group-title="Canais | Documentários",Discovery Theater HD
+http://dnsl.me:80/5104215/3138192/4473
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD [Alter]" tvg-logo="https://url.gratis/UarI96" group-title="Canais | Documentários",Discovery Theater HD [Alter]
+http://dnsl.me:80/5104215/3138192/64014
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater SD" tvg-logo="https://url.gratis/UarI96" group-title="Canais | Documentários",Discovery Theater SD
+http://dnsl.me:80/5104215/3138192/4474
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC FHD" tvg-logo="https://url.gratis/zDM3Ll" group-title="Canais | Documentários",Discovery TLC FHD
+http://dnsl.me:80/5104215/3138192/4182
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC FHD [H265]" tvg-logo="https://url.gratis/zDM3Ll" group-title="Canais | Documentários",Discovery TLC FHD [H265]
+http://dnsl.me:80/5104215/3138192/63959
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC HD" tvg-logo="https://url.gratis/zDM3Ll" group-title="Canais | Documentários",Discovery TLC HD
+http://dnsl.me:80/5104215/3138192/4184
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC HD [Alter]" tvg-logo="https://url.gratis/zDM3Ll" group-title="Canais | Documentários",Discovery TLC HD [Alter]
+http://dnsl.me:80/5104215/3138192/64009
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="Discovery TLC SD" tvg-logo="https://url.gratis/zDM3Ll" group-title="Canais | Documentários",Discovery TLC SD
+http://dnsl.me:80/5104215/3138192/25439
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="https://url.gratis/7uAomw" group-title="Canais | Variedades",Discovery Turbo FHD
+http://dnsl.me:80/5104215/3138192/4118
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo FHD [H265]" tvg-logo="https://url.gratis/7uAomw" group-title="Canais | Variedades",Discovery Turbo FHD [H265]
+http://dnsl.me:80/5104215/3138192/63896
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="https://url.gratis/7uAomw" group-title="Canais | Variedades",Discovery Turbo HD
+http://dnsl.me:80/5104215/3138192/4120
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD [Alter]" tvg-logo="https://url.gratis/7uAomw" group-title="Canais | Variedades",Discovery Turbo HD [Alter]
+http://dnsl.me:80/5104215/3138192/63980
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo SD" tvg-logo="https://url.gratis/7uAomw" group-title="Canais | Variedades",Discovery Turbo SD
+http://dnsl.me:80/5104215/3138192/4121
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World FHD" tvg-logo="https://url.gratis/X879qo" group-title="Canais | Documentários",Discovery World FHD
+http://dnsl.me:80/5104215/3138192/4475
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD [H265]" tvg-logo="https://url.gratis/X879qo" group-title="Canais | Documentários",Discovery World FHD [H265]
+http://dnsl.me:80/5104215/3138192/63897
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="https://url.gratis/X879qo" group-title="Canais | Documentários",Discovery World HD
+http://dnsl.me:80/5104215/3138192/4477
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD [Alter]" tvg-logo="https://url.gratis/X879qo" group-title="Canais | Documentários",Discovery World HD [Alter]
+http://dnsl.me:80/5104215/3138192/64015
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World SD" tvg-logo="https://url.gratis/X879qo" group-title="Canais | Documentários",Discovery World SD
+http://dnsl.me:80/5104215/3138192/4478
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel FHD" tvg-logo="https://url.gratis/QBCfUl" group-title="Canais | Infantis",Disney Channel FHD
+http://dnsl.me:80/5104215/3138192/3854
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD [H265]" tvg-logo="https://url.gratis/QBCfUl" group-title="Canais | Infantis",Disney Channel FHD [H265]
+http://dnsl.me:80/5104215/3138192/63898
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD" tvg-logo="https://url.gratis/QBCfUl" group-title="Canais | Infantis",Disney Channel HD
+http://dnsl.me:80/5104215/3138192/3855
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD [Alter]" tvg-logo="https://url.gratis/QBCfUl" group-title="Canais | Infantis",Disney Channel HD [Alter]
+http://dnsl.me:80/5104215/3138192/64080
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel SD" tvg-logo="https://url.gratis/QBCfUl" group-title="Canais | Infantis",Disney Channel SD
+http://dnsl.me:80/5104215/3138192/4540
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Junior FHD" tvg-logo="https://url.gratis/SBXzGX" group-title="Canais | Infantis",Disney Junior FHD
+http://dnsl.me:80/5104215/3138192/3857
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior FHD [H265]" tvg-logo="https://url.gratis/SBXzGX" group-title="Canais | Infantis",Disney Junior FHD [H265]
+http://dnsl.me:80/5104215/3138192/63899
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Junior HD" tvg-logo="https://url.gratis/SBXzGX" group-title="Canais | Infantis",Disney Junior HD
+http://dnsl.me:80/5104215/3138192/3856
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD [Alter]" tvg-logo="https://url.gratis/SBXzGX" group-title="Canais | Infantis",Disney Junior HD [Alter]
+http://dnsl.me:80/5104215/3138192/64081
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Junior SD" tvg-logo="https://url.gratis/SBXzGX" group-title="Canais | Infantis",Disney Junior SD
+http://dnsl.me:80/5104215/3138192/4542
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD FHD" tvg-logo="https://url.gratis/uzX4KK" group-title="Canais | Infantis",Disney XD FHD
+http://dnsl.me:80/5104215/3138192/3858
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD HD" tvg-logo="https://url.gratis/uzX4KK" group-title="Canais | Infantis",Disney XD HD
+http://dnsl.me:80/5104215/3138192/3859
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD [Alter]" tvg-logo="https://url.gratis/uzX4KK" group-title="Canais | Infantis",Disney XD HD [Alter]
+http://dnsl.me:80/5104215/3138192/64082
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD SD" tvg-logo="https://url.gratis/uzX4KK" group-title="Canais | Infantis",Disney XD SD
+http://dnsl.me:80/5104215/3138192/4544
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DogTV FHD" tvg-logo="https://url.gratis/JIdh32" group-title="Canais | Variedades",DogTV FHD
+http://dnsl.me:80/5104215/3138192/4123
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DogTV HD" tvg-logo="https://url.gratis/JIdh32" group-title="Canais | Variedades",DogTV HD
+http://dnsl.me:80/5104215/3138192/4122
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! FHD" tvg-logo="https://url.gratis/6jBVcC" group-title="Canais | Variedades",E! FHD
+http://dnsl.me:80/5104215/3138192/4124
+#EXTINF:-1 tvg-id="" tvg-name="E! FHD [H265]" tvg-logo="https://url.gratis/6jBVcC" group-title="Canais | Variedades",E! FHD [H265]
+http://dnsl.me:80/5104215/3138192/63900
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="https://url.gratis/6jBVcC" group-title="Canais | Variedades",E! HD
+http://dnsl.me:80/5104215/3138192/4126
+#EXTINF:-1 tvg-id="" tvg-name="E! HD [Alter]" tvg-logo="https://url.gratis/6jBVcC" group-title="Canais | Variedades",E! HD [Alter]
+http://dnsl.me:80/5104215/3138192/63982
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! SD" tvg-logo="https://url.gratis/6jBVcC" group-title="Canais | Variedades",E! SD
+http://dnsl.me:80/5104215/3138192/4127
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 FHD" tvg-logo="https://url.gratis/WrELdv" group-title=" Canais | Esportes PPV",Eleven Sports 1 FHD
+http://dnsl.me:80/5104215/3138192/48592
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 HD" tvg-logo="https://url.gratis/WrELdv" group-title=" Canais | Esportes PPV",Eleven Sports 1 HD
+http://dnsl.me:80/5104215/3138192/48593
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 FHD" tvg-logo="https://url.gratis/WrELdv" group-title=" Canais | Esportes PPV",Eleven Sports 2 FHD
+http://dnsl.me:80/5104215/3138192/48594
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 HD" tvg-logo="https://url.gratis/WrELdv" group-title=" Canais | Esportes PPV",Eleven Sports 2 HD
+http://dnsl.me:80/5104215/3138192/48595
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 FHD" tvg-logo="https://url.gratis/WrELdv" group-title=" Canais | Esportes PPV",Eleven Sports 3 FHD
+http://dnsl.me:80/5104215/3138192/48596
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 HD" tvg-logo="https://url.gratis/WrELdv" group-title=" Canais | Esportes PPV",Eleven Sports 3 HD
+http://dnsl.me:80/5104215/3138192/48597
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 FHD" tvg-logo="https://url.gratis/WrELdv" group-title=" Canais | Esportes PPV",Eleven Sports 4 FHD
+http://dnsl.me:80/5104215/3138192/48598
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 HD" tvg-logo="https://url.gratis/WrELdv" group-title=" Canais | Esportes PPV",Eleven Sports 4 HD
+http://dnsl.me:80/5104215/3138192/48599
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5 FHD" tvg-logo="https://url.gratis/WrELdv" group-title=" Canais | Esportes PPV",Eleven Sports 5 FHD
+http://dnsl.me:80/5104215/3138192/48600
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5 HD" tvg-logo="https://url.gratis/WrELdv" group-title=" Canais | Esportes PPV",Eleven Sports 5 HD
+http://dnsl.me:80/5104215/3138192/48601
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6 FHD" tvg-logo="https://url.gratis/WrELdv" group-title=" Canais | Esportes PPV",Eleven Sports 6 FHD
+http://dnsl.me:80/5104215/3138192/48602
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6 HD" tvg-logo="https://url.gratis/WrELdv" group-title=" Canais | Esportes PPV",Eleven Sports 6 HD
+http://dnsl.me:80/5104215/3138192/48603
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://url.gratis/pAqcTo" group-title="Canais | ESPN",ESPN 2 FHD
+http://dnsl.me:80/5104215/3138192/3683
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD [H265]" tvg-logo="https://url.gratis/pAqcTo" group-title="Canais | ESPN",ESPN 2 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63901
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://url.gratis/pAqcTo" group-title="Canais | ESPN",ESPN 2 HD
+http://dnsl.me:80/5104215/3138192/3682
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD" tvg-logo="https://url.gratis/pAqcTo" group-title="Canais | ESPN",ESPN 2 SD
+http://dnsl.me:80/5104215/3138192/4526
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil FHD" tvg-logo="https://url.gratis/K49AVE" group-title="Canais | ESPN",ESPN Brasil FHD
+http://dnsl.me:80/5104215/3138192/3686
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil FHD [H265]" tvg-logo="https://url.gratis/K49AVE" group-title="Canais | ESPN",ESPN Brasil FHD [H265]
+http://dnsl.me:80/5104215/3138192/64136
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://url.gratis/K49AVE" group-title="Canais | ESPN",ESPN Brasil HD
+http://dnsl.me:80/5104215/3138192/3687
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="https://url.gratis/K49AVE" group-title="Canais | ESPN",ESPN Brasil SD
+http://dnsl.me:80/5104215/3138192/4528
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra FHD" tvg-logo="https://url.gratis/BcHzb3" group-title="Canais | ESPN",ESPN Extra FHD
+http://dnsl.me:80/5104215/3138192/4054
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra FHD [H265]" tvg-logo="https://url.gratis/BcHzb3" group-title="Canais | ESPN",ESPN Extra FHD [H265]
+http://dnsl.me:80/5104215/3138192/63903
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="https://url.gratis/BcHzb3" group-title="Canais | ESPN",ESPN Extra HD
+http://dnsl.me:80/5104215/3138192/28850
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="https://url.gratis/BcHzb3" group-title="Canais | ESPN",ESPN Extra SD
+http://dnsl.me:80/5104215/3138192/28851
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="https://url.gratis/bJztIh" group-title="Canais | ESPN",ESPN FHD
+http://dnsl.me:80/5104215/3138192/3678
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD [H265]" tvg-logo="https://url.gratis/bJztIh" group-title="Canais | ESPN",ESPN FHD [H265]
+http://dnsl.me:80/5104215/3138192/63904
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://url.gratis/bJztIh" group-title="Canais | ESPN",ESPN HD
+http://dnsl.me:80/5104215/3138192/4053
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="https://url.gratis/bJztIh" group-title="Canais | ESPN",ESPN SD
+http://dnsl.me:80/5104215/3138192/4532
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 1 HD" tvg-logo="https://url.gratis/A0DnIK" group-title=" Canais | Esportes PPV",Estádio TNT Sports 1 HD
+http://dnsl.me:80/5104215/3138192/49370
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 1 SD" tvg-logo="https://url.gratis/A0DnIK" group-title=" Canais | Esportes PPV",Estádio TNT Sports 1 SD
+http://dnsl.me:80/5104215/3138192/62615
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 2 HD" tvg-logo="https://url.gratis/A0DnIK" group-title=" Canais | Esportes PPV",Estádio TNT Sports 2 HD
+http://dnsl.me:80/5104215/3138192/49371
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 2 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Estádio TNT Sports 2 SD
+http://dnsl.me:80/5104215/3138192/62616
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 3 HD" tvg-logo="https://url.gratis/A0DnIK" group-title=" Canais | Esportes PPV",Estádio TNT Sports 3 HD
+http://dnsl.me:80/5104215/3138192/49372
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 3 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Estádio TNT Sports 3 SD
+http://dnsl.me:80/5104215/3138192/62617
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 4 HD" tvg-logo="https://url.gratis/A0DnIK" group-title=" Canais | Esportes PPV",Estádio TNT Sports 4 HD
+http://dnsl.me:80/5104215/3138192/49373
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 4 SD" tvg-logo="" group-title=" Canais | Esportes PPV",Estádio TNT Sports 4 SD
+http://dnsl.me:80/5104215/3138192/62618
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 5 HD" tvg-logo="https://url.gratis/A0DnIK" group-title=" Canais | Esportes PPV",Estádio TNT Sports 5 HD
+http://dnsl.me:80/5104215/3138192/49374
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 5 SD" tvg-logo="https://url.gratis/A0DnIK" group-title=" Canais | Esportes PPV",Estádio TNT Sports 5 SD
+http://dnsl.me:80/5104215/3138192/62619
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 6 HD" tvg-logo="https://url.gratis/A0DnIK" group-title=" Canais | Esportes PPV",Estádio TNT Sports 6 HD
+http://dnsl.me:80/5104215/3138192/62620
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 6 SD" tvg-logo="https://url.gratis/A0DnIK" group-title=" Canais | Esportes PPV",Estádio TNT Sports 6 SD
+http://dnsl.me:80/5104215/3138192/62621
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 7 HD" tvg-logo="https://url.gratis/A0DnIK" group-title=" Canais | Esportes PPV",Estádio TNT Sports 7 HD
+http://dnsl.me:80/5104215/3138192/62622
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 7 SD" tvg-logo="https://url.gratis/A0DnIK" group-title=" Canais | Esportes PPV",Estádio TNT Sports 7 SD
+http://dnsl.me:80/5104215/3138192/62623
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 8 HD" tvg-logo="https://url.gratis/A0DnIK" group-title=" Canais | Esportes PPV",Estádio TNT Sports 8 HD
+http://dnsl.me:80/5104215/3138192/62624
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 8 SD" tvg-logo="https://url.gratis/A0DnIK" group-title=" Canais | Esportes PPV",Estádio TNT Sports 8 SD
+http://dnsl.me:80/5104215/3138192/62625
+#EXTINF:-1 tvg-id="" tvg-name="Facebook Watch" tvg-logo="https://url.gratis/TIi9rY" group-title=" Canais | Esportes PPV",Facebook Watch
+http://dnsl.me:80/5104215/3138192/41465
+#EXTINF:-1 tvg-id="" tvg-name="Facebook Watch²" tvg-logo="https://url.gratis/TIi9rY" group-title=" Canais | Esportes PPV",Facebook Watch²
+http://dnsl.me:80/5104215/3138192/41466
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FashionTV FHD" tvg-logo="https://url.gratis/ia3CWy" group-title="Canais | Variedades",FashionTV FHD
+http://dnsl.me:80/5104215/3138192/4128
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FashionTV HD" tvg-logo="https://url.gratis/ia3CWy" group-title="Canais | Variedades",FashionTV HD
+http://dnsl.me:80/5104215/3138192/49532
+#EXTINF:-1 tvg-id="" tvg-name="FashionTV HD [Alter]" tvg-logo="https://url.gratis/ia3CWy" group-title="Canais | Variedades",FashionTV HD [Alter]
+http://dnsl.me:80/5104215/3138192/64006
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts FHD" tvg-logo="https://url.gratis/tkKpzp" group-title="Canais | Filmes e Séries",Film & Arts FHD
+http://dnsl.me:80/5104215/3138192/62829
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts HD" tvg-logo="https://url.gratis/tkKpzp" group-title="Canais | Filmes e Séries",Film & Arts HD
+http://dnsl.me:80/5104215/3138192/62830
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts HD [Alter]" tvg-logo="https://url.gratis/tkKpzp" group-title="Canais | Filmes e Séries",Film & Arts HD [Alter]
+http://dnsl.me:80/5104215/3138192/64044
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts SD" tvg-logo="https://url.gratis/tkKpzp" group-title="Canais | Filmes e Séries",Film & Arts SD
+http://dnsl.me:80/5104215/3138192/62831
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV FHD" tvg-logo="https://url.gratis/rSRqdC" group-title="Canais | Variedades",Fish TV FHD
+http://dnsl.me:80/5104215/3138192/4129
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV FHD [H265]" tvg-logo="https://url.gratis/rSRqdC" group-title="Canais | Variedades",Fish TV FHD [H265]
+http://dnsl.me:80/5104215/3138192/63905
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV HD" tvg-logo="https://url.gratis/rSRqdC" group-title="Canais | Variedades",Fish TV HD
+http://dnsl.me:80/5104215/3138192/4131
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV HD [Alter]" tvg-logo="https://url.gratis/rSRqdC" group-title="Canais | Variedades",Fish TV HD [Alter]
+http://dnsl.me:80/5104215/3138192/63983
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="https://url.gratis/rSRqdC" group-title="Canais | Variedades",Fish TV SD
+http://dnsl.me:80/5104215/3138192/4132
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV FHD" tvg-logo="https://url.gratis/vNqkjA" group-title=" Canais | Esportes PPV",FlaTV FHD
+http://dnsl.me:80/5104215/3138192/10342
+#EXTINF:-1 tvg-id="" tvg-name="FlaTV HD" tvg-logo="https://url.gratis/vNqkjA" group-title=" Canais | Esportes PPV",FlaTV HD
+http://dnsl.me:80/5104215/3138192/49516
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network FHD" tvg-logo="https://url.gratis/G2Tc5i" group-title="Canais | Variedades",Food Network FHD
+http://dnsl.me:80/5104215/3138192/4133
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD [H265]" tvg-logo="https://url.gratis/G2Tc5i" group-title="Canais | Variedades",Food Network FHD [H265]
+http://dnsl.me:80/5104215/3138192/63906
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD" tvg-logo="https://url.gratis/G2Tc5i" group-title="Canais | Variedades",Food Network HD
+http://dnsl.me:80/5104215/3138192/4135
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD [Alter]" tvg-logo="https://url.gratis/G2Tc5i" group-title="Canais | Variedades",Food Network HD [Alter]
+http://dnsl.me:80/5104215/3138192/63984
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network SD" tvg-logo="https://url.gratis/G2Tc5i" group-title="Canais | Variedades",Food Network SD
+http://dnsl.me:80/5104215/3138192/4136
+#EXTINF:-1 tvg-id="" tvg-name="Formula 1 TV HD" tvg-logo="https://url.gratis/vCRUFY" group-title=" Canais | Esportes PPV",Formula 1 TV HD
+http://dnsl.me:80/5104215/3138192/56783
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 FHD" tvg-logo="https://url.gratis/DDlc7v" group-title="Canais | Esportes",Fox Sports 2 FHD
+http://dnsl.me:80/5104215/3138192/3692
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 FHD [H265]" tvg-logo="https://url.gratis/DDlc7v" group-title="Canais | Esportes",Fox Sports 2 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63910
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="https://url.gratis/DDlc7v" group-title="Canais | Esportes",Fox Sports 2 HD
+http://dnsl.me:80/5104215/3138192/3693
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD [Alter]" tvg-logo="https://url.gratis/DDlc7v" group-title="Canais | Esportes",Fox Sports 2 HD [Alter]
+http://dnsl.me:80/5104215/3138192/64070
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 SD" tvg-logo="https://url.gratis/DDlc7v" group-title="Canais | Esportes",Fox Sports 2 SD
+http://dnsl.me:80/5104215/3138192/4508
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports FHD" tvg-logo="https://url.gratis/0VETo" group-title="Canais | Esportes",Fox Sports FHD
+http://dnsl.me:80/5104215/3138192/3694
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports FHD [H265]" tvg-logo="https://url.gratis/0VETo" group-title="Canais | Esportes",Fox Sports FHD [H265]
+http://dnsl.me:80/5104215/3138192/63911
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD" tvg-logo="https://url.gratis/0VETo" group-title="Canais | Esportes",Fox Sports HD
+http://dnsl.me:80/5104215/3138192/3695
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD [Alter]" tvg-logo="https://url.gratis/0VETo" group-title="Canais | Esportes",Fox Sports HD [Alter]
+http://dnsl.me:80/5104215/3138192/64071
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports SD" tvg-logo="https://url.gratis/0VETo" group-title="Canais | Esportes",Fox Sports SD
+http://dnsl.me:80/5104215/3138192/4510
+#EXTINF:-1 tvg-id="" tvg-name="Futura FHD" tvg-logo="https://url.gratis/sS6xEt" group-title="Canais | Abertos",Futura FHD
+http://dnsl.me:80/5104215/3138192/49277
+#EXTINF:-1 tvg-id="" tvg-name="Futura HD" tvg-logo="https://url.gratis/sS6xEt" group-title="Canais | Abertos",Futura HD
+http://dnsl.me:80/5104215/3138192/49278
+#EXTINF:-1 tvg-id="" tvg-name="Futura SD" tvg-logo="https://url.gratis/sS6xEt" group-title="Canais | Abertos",Futura SD
+http://dnsl.me:80/5104215/3138192/49598
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="https://url.gratis/oYbRDB" group-title="Canais | Filmes e Séries",FX FHD
+http://dnsl.me:80/5104215/3138192/3719
+#EXTINF:-1 tvg-id="" tvg-name="FX FHD [H265]" tvg-logo="https://url.gratis/oYbRDB" group-title="Canais | Filmes e Séries",FX FHD [H265]
+http://dnsl.me:80/5104215/3138192/63912
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://url.gratis/oYbRDB" group-title="Canais | Filmes e Séries",FX HD
+http://dnsl.me:80/5104215/3138192/3720
+#EXTINF:-1 tvg-id="" tvg-name="FX HD [Alter]" tvg-logo="https://url.gratis/oYbRDB" group-title="Canais | Filmes e Séries",FX HD [Alter]
+http://dnsl.me:80/5104215/3138192/64029
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://url.gratis/oYbRDB" group-title="Canais | Filmes e Séries",FX SD
+http://dnsl.me:80/5104215/3138192/4352
+#EXTINF:-1 tvg-id="" tvg-name="Globo Amazônica - Manaus HD " tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Amazônica - Manaus HD 
+http://dnsl.me:80/5104215/3138192/48478
+#EXTINF:-1 tvg-id="" tvg-name="Globo Amazônica - Manaus SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Amazônica - Manaus SD
+http://dnsl.me:80/5104215/3138192/49600
+#EXTINF:-1 tvg-id="" tvg-name="Globo Amazônica FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Amazônica FHD
+http://dnsl.me:80/5104215/3138192/48520
+#EXTINF:-1 tvg-id="" tvg-name="Globo Amazônica HD " tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Amazônica HD 
+http://dnsl.me:80/5104215/3138192/48479
+#EXTINF:-1 tvg-id="" tvg-name="Globo Anhanguera Goiânia HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Anhanguera Goiânia HD
+http://dnsl.me:80/5104215/3138192/40650
+#EXTINF:-1 tvg-id="" tvg-name="Globo Anhanguera Goiânia SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Anhanguera Goiânia SD
+http://dnsl.me:80/5104215/3138192/25870
+#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Bahia FHD
+http://dnsl.me:80/5104215/3138192/49588
+#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Bahia HD
+http://dnsl.me:80/5104215/3138192/49589
+#EXTINF:-1 tvg-id="" tvg-name="Globo Centro America FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Centro America FHD
+http://dnsl.me:80/5104215/3138192/48480
+#EXTINF:-1 tvg-id="" tvg-name="Globo Centro America HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Centro America HD
+http://dnsl.me:80/5104215/3138192/48481
+#EXTINF:-1 tvg-id="" tvg-name="Globo Centro America SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Centro America SD
+http://dnsl.me:80/5104215/3138192/48482
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Campinas FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo EPTV Campinas FHD
+http://dnsl.me:80/5104215/3138192/16666
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo EPTV Campinas HD
+http://dnsl.me:80/5104215/3138192/48484
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo EPTV Campinas SD
+http://dnsl.me:80/5104215/3138192/48485
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirão Preto FHD [H265]" tvg-logo="http://dnsl.me:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="Canais | Globo",Globo EPTV Ribeirão Preto FHD [H265]
+http://dnsl.me:80/5104215/3138192/63972
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo EPTV Ribeirão Preto HD
+http://dnsl.me:80/5104215/3138192/48486
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirão Preto SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo EPTV Ribeirão Preto SD
+http://dnsl.me:80/5104215/3138192/49597
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo EPTV Sul de Minas FHD
+http://dnsl.me:80/5104215/3138192/48487
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo EPTV Sul de Minas HD
+http://dnsl.me:80/5104215/3138192/48488
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo EPTV Sul de Minas SD
+http://dnsl.me:80/5104215/3138192/48489
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo EPTV São Carlos HD
+http://dnsl.me:80/5104215/3138192/48490
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo EPTV São Carlos SD
+http://dnsl.me:80/5104215/3138192/34232
+#EXTINF:-1 tvg-id="" tvg-name="Globo Goiânia SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Goiânia SD
+http://dnsl.me:80/5104215/3138192/25887
+#EXTINF:-1 tvg-id="" tvg-name="Globo Integração MG FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Integração MG FHD
+http://dnsl.me:80/5104215/3138192/62810
+#EXTINF:-1 tvg-id="" tvg-name="Globo Integração MG HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Integração MG HD
+http://dnsl.me:80/5104215/3138192/62809
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter do Vale FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Inter do Vale FHD
+http://dnsl.me:80/5104215/3138192/62811
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter do Vale HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Inter do Vale HD
+http://dnsl.me:80/5104215/3138192/62812
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter PT FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Inter PT FHD
+http://dnsl.me:80/5104215/3138192/48492
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter PT HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Inter PT HD
+http://dnsl.me:80/5104215/3138192/48493
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Inter TV Alto Litoral FHD
+http://dnsl.me:80/5104215/3138192/48494
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Inter TV Grande Minas FHD
+http://dnsl.me:80/5104215/3138192/48496
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
+http://dnsl.me:80/5104215/3138192/48497
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo Internacional HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Internacional HD
+http://dnsl.me:80/5104215/3138192/16674
+#EXTINF:-1 tvg-id="" tvg-name="Globo InterTV Cabugi FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo InterTV Cabugi FHD
+http://dnsl.me:80/5104215/3138192/48495
+#EXTINF:-1 tvg-id="" tvg-name="Globo InterTV Cabugi HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo InterTV Cabugi HD
+http://dnsl.me:80/5104215/3138192/48491
+#EXTINF:-1 tvg-id="" tvg-name="Globo InterTV Cabugi SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo InterTV Cabugi SD
+http://dnsl.me:80/5104215/3138192/25881
+#EXTINF:-1 tvg-id="" tvg-name="Globo Manaus HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Manaus HD
+http://dnsl.me:80/5104215/3138192/28894
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Minas FHD
+http://dnsl.me:80/5104215/3138192/48498
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas FHD [H265]" tvg-logo="http://dnsl.me:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="Canais | Globo",Globo Minas FHD [H265]
+http://dnsl.me:80/5104215/3138192/63975
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Minas HD
+http://dnsl.me:80/5104215/3138192/48499
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Minas SD
+http://dnsl.me:80/5104215/3138192/48500
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News FHD" tvg-logo="https://www.liebeurl.me/logos/globonews.png" group-title="Canais | Notícias",Globo News FHD
+http://dnsl.me:80/5104215/3138192/3778
+#EXTINF:-1 tvg-id="" tvg-name="Globo News FHD [H265]" tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News FHD [H265]
+http://dnsl.me:80/5104215/3138192/63913
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="https://www.liebeurl.me/logos/globonews.png" group-title="Canais | Notícias",Globo News HD
+http://dnsl.me:80/5104215/3138192/3779
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News SD" tvg-logo="https://www.liebeurl.me/logos/globonews.png" group-title="Canais | Notícias",Globo News SD
+http://dnsl.me:80/5104215/3138192/4568
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Nordeste FHD
+http://dnsl.me:80/5104215/3138192/25896
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Nordeste HD
+http://dnsl.me:80/5104215/3138192/48502
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Nordeste SD
+http://dnsl.me:80/5104215/3138192/48503
+#EXTINF:-1 tvg-id="" tvg-name="Globo NOW" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo NOW
+http://dnsl.me:80/5104215/3138192/48504
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Centro Oeste FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo NSC Centro Oeste FHD
+http://dnsl.me:80/5104215/3138192/48505
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Florianopolis FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo NSC Florianopolis FHD
+http://dnsl.me:80/5104215/3138192/48506
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Florianopolis HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo NSC Florianopolis HD
+http://dnsl.me:80/5104215/3138192/48507
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Florianopolis SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo NSC Florianopolis SD
+http://dnsl.me:80/5104215/3138192/48508
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo NSC TV Blumenau FHD
+http://dnsl.me:80/5104215/3138192/48509
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenau SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo NSC TV Blumenau SD
+http://dnsl.me:80/5104215/3138192/48510
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Chapeco FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo NSC TV Chapeco FHD
+http://dnsl.me:80/5104215/3138192/48511
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Criciuma FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo NSC TV Criciuma FHD
+http://dnsl.me:80/5104215/3138192/48512
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo NSC TV Joinville FHD
+http://dnsl.me:80/5104215/3138192/48513
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo NSC TV Joinville HD
+http://dnsl.me:80/5104215/3138192/43151
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Santa Catarina HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo NSC TV Santa Catarina HD
+http://dnsl.me:80/5104215/3138192/49578
+#EXTINF:-1 tvg-id="" tvg-name="Globo Paraíba HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Paraíba HD
+http://dnsl.me:80/5104215/3138192/40663
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RBS HD
+http://dnsl.me:80/5104215/3138192/40655
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS Porto Alegre SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RBS Porto Alegre SD
+http://dnsl.me:80/5104215/3138192/25904
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Caxias do Sul FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RBS TV Caxias do Sul FHD
+http://dnsl.me:80/5104215/3138192/48514
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RBS TV Caxias do Sul HD
+http://dnsl.me:80/5104215/3138192/43154
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RBS TV Pelotas FHD
+http://dnsl.me:80/5104215/3138192/48515
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RBS TV Pelotas HD
+http://dnsl.me:80/5104215/3138192/40670
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RBS TV POA FHD
+http://dnsl.me:80/5104215/3138192/48516
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RBS TV POA HD
+http://dnsl.me:80/5104215/3138192/48517
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RBS TV POA SD
+http://dnsl.me:80/5104215/3138192/48518
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Santa Maria FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RBS TV Santa Maria FHD
+http://dnsl.me:80/5104215/3138192/48519
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RJ FHD
+http://dnsl.me:80/5104215/3138192/25910
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RJ HD
+http://dnsl.me:80/5104215/3138192/48522
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RJ SD
+http://dnsl.me:80/5104215/3138192/48523
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RPC Curitiba FHD
+http://dnsl.me:80/5104215/3138192/48526
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RPC Curitiba HD
+http://dnsl.me:80/5104215/3138192/48527
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RPC Curitiba SD
+http://dnsl.me:80/5104215/3138192/48528
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RPC Foz do Iguaçu FHD
+http://dnsl.me:80/5104215/3138192/48524
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RPC Foz do Iguaçu HD
+http://dnsl.me:80/5104215/3138192/49614
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringa HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RPC Maringa HD
+http://dnsl.me:80/5104215/3138192/48525
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paranavaí FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RPC Paranavaí FHD
+http://dnsl.me:80/5104215/3138192/62814
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paranavaí HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RPC Paranavaí HD
+http://dnsl.me:80/5104215/3138192/62813
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Paraná HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RPC Paraná HD
+http://dnsl.me:80/5104215/3138192/49579
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Ponta Grossa FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo RPC Ponta Grossa FHD
+http://dnsl.me:80/5104215/3138192/48529
+#EXTINF:-1 tvg-id="" tvg-name="Globo S.J do Rio Preto SD " tvg-logo="" group-title="Canais | Globo",Globo S.J do Rio Preto SD 
+http://dnsl.me:80/5104215/3138192/40636
+#EXTINF:-1 tvg-id="" tvg-name="Globo Sergipe HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Sergipe HD
+http://dnsl.me:80/5104215/3138192/28881
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo SP FHD
+http://dnsl.me:80/5104215/3138192/48530
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP FHD [H265]" tvg-logo="http://dnsl.me:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="Canais | Globo",Globo SP FHD [H265]
+http://dnsl.me:80/5104215/3138192/63973
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo SP HD
+http://dnsl.me:80/5104215/3138192/48531
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo SP SD
+http://dnsl.me:80/5104215/3138192/48532
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera  SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Anhanguera  SD
+http://dnsl.me:80/5104215/3138192/48533
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Anhanguera FHD
+http://dnsl.me:80/5104215/3138192/48565
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera FHD [H265]" tvg-logo="http://dnsl.me:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="Canais | Globo",Globo TV Anhanguera FHD [H265]
+http://dnsl.me:80/5104215/3138192/63969
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Anhanguera HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Anhanguera HD
+http://dnsl.me:80/5104215/3138192/48566
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Asa Branca FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Asa Branca FHD
+http://dnsl.me:80/5104215/3138192/48535
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Asa Branca HD" tvg-logo="" group-title="Canais | Globo",Globo TV Asa Branca HD
+http://dnsl.me:80/5104215/3138192/40665
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Bahia FHD
+http://dnsl.me:80/5104215/3138192/48536
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Bahia HD
+http://dnsl.me:80/5104215/3138192/48537
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Bahia SD
+http://dnsl.me:80/5104215/3138192/48538
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Belem FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Belem FHD
+http://dnsl.me:80/5104215/3138192/48539
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Belem HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Belem HD
+http://dnsl.me:80/5104215/3138192/48540
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Belem SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Belem SD
+http://dnsl.me:80/5104215/3138192/48541
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Brasilia FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Brasilia FHD
+http://dnsl.me:80/5104215/3138192/48542
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Brasilia FHD [H265]" tvg-logo="http://dnsl.me:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="Canais | Globo",Globo TV Brasilia FHD [H265]
+http://dnsl.me:80/5104215/3138192/63974
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Brasilia HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Brasilia HD
+http://dnsl.me:80/5104215/3138192/48543
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Brasilia SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Brasilia SD
+http://dnsl.me:80/5104215/3138192/48544
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Cabo Branco FHD
+http://dnsl.me:80/5104215/3138192/48545
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Clube FHD
+http://dnsl.me:80/5104215/3138192/48546
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Clube HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Clube HD
+http://dnsl.me:80/5104215/3138192/49610
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Integração JF FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Integração JF FHD
+http://dnsl.me:80/5104215/3138192/48547
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Mirante FHD
+http://dnsl.me:80/5104215/3138192/48548
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Mirante HD
+http://dnsl.me:80/5104215/3138192/48549
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Mirante SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Mirante SD
+http://dnsl.me:80/5104215/3138192/48550
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena - Ponta Pora HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Morena - Ponta Pora HD
+http://dnsl.me:80/5104215/3138192/49570
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Morena FHD
+http://dnsl.me:80/5104215/3138192/48551
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Morena HD
+http://dnsl.me:80/5104215/3138192/48552
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Morena SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Morena SD
+http://dnsl.me:80/5104215/3138192/48553
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Recife FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Recife FHD
+http://dnsl.me:80/5104215/3138192/48554
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Rio Sul FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Rio Sul FHD
+http://dnsl.me:80/5104215/3138192/48555
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM SJRP" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV TEM SJRP
+http://dnsl.me:80/5104215/3138192/48556
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Tem Sorocaba HD
+http://dnsl.me:80/5104215/3138192/48557
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tem Sorocaba SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Tem Sorocaba SD
+http://dnsl.me:80/5104215/3138192/48558
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Tribuna FHD
+http://dnsl.me:80/5104215/3138192/40638
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Tribuna HD
+http://dnsl.me:80/5104215/3138192/48559
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Tribuna SD
+http://dnsl.me:80/5104215/3138192/48560
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda S.J dos Campos FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos FHD
+http://dnsl.me:80/5104215/3138192/45335
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda S.J dos Campos HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos HD
+http://dnsl.me:80/5104215/3138192/48561
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Vanguarda S.J dos Campos SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos SD
+http://dnsl.me:80/5104215/3138192/25922
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Verdes Mares FHD
+http://dnsl.me:80/5104215/3138192/48562
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Verdes Mares HD
+http://dnsl.me:80/5104215/3138192/48563
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Verdes Mares SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo TV Verdes Mares SD
+http://dnsl.me:80/5104215/3138192/48564
+#EXTINF:-1 tvg-id="" tvg-name="Globo Vitória ES FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Vitória ES FHD
+http://dnsl.me:80/5104215/3138192/40654
+#EXTINF:-1 tvg-id="" tvg-name="Globo Vitória ES HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",Globo Vitória ES HD
+http://dnsl.me:80/5104215/3138192/28879
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob FHD" tvg-logo="https://url.gratis/Hq8Pr2" group-title="Canais | Infantis",Gloob FHD
+http://dnsl.me:80/5104215/3138192/3849
+#EXTINF:-1 tvg-id="" tvg-name="Gloob FHD [H265]" tvg-logo="https://url.gratis/Hq8Pr2" group-title="Canais | Infantis",Gloob FHD [H265]
+http://dnsl.me:80/5104215/3138192/63914
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="https://url.gratis/Hq8Pr2" group-title="Canais | Infantis",Gloob HD
+http://dnsl.me:80/5104215/3138192/3850
+#EXTINF:-1 tvg-id="" tvg-name="Gloob HD [Alter]" tvg-logo="https://url.gratis/Hq8Pr2" group-title="Canais | Infantis",Gloob HD [Alter]
+http://dnsl.me:80/5104215/3138192/64077
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob SD" tvg-logo="https://url.gratis/Hq8Pr2" group-title="Canais | Infantis",Gloob SD
+http://dnsl.me:80/5104215/3138192/4546
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho FHD" tvg-logo="https://url.gratis/GGK0Mh" group-title="Canais | Infantis",Gloobinho FHD
+http://dnsl.me:80/5104215/3138192/13218
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho HD" tvg-logo="https://url.gratis/GGK0Mh" group-title="Canais | Infantis",Gloobinho HD
+http://dnsl.me:80/5104215/3138192/3851
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD [Alter]" tvg-logo="https://url.gratis/GGK0Mh" group-title="Canais | Infantis",Gloobinho HD [Alter]
+http://dnsl.me:80/5104215/3138192/64078
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="Gloobinho SD" tvg-logo="https://url.gratis/GGK0Mh" group-title="Canais | Infantis",Gloobinho SD
+http://dnsl.me:80/5104215/3138192/4548
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="https://url.gratis/qozXgl" group-title="Canais | Variedades",GNT FHD
+http://dnsl.me:80/5104215/3138192/4141
+#EXTINF:-1 tvg-id="" tvg-name="GNT FHD [H265]" tvg-logo="https://url.gratis/qozXgl" group-title="Canais | Variedades",GNT FHD [H265]
+http://dnsl.me:80/5104215/3138192/63915
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://url.gratis/qozXgl" group-title="Canais | Variedades",GNT HD
+http://dnsl.me:80/5104215/3138192/4143
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD [Alter]" tvg-logo="https://url.gratis/qozXgl" group-title="Canais | Variedades",GNT HD [Alter]
+http://dnsl.me:80/5104215/3138192/63986
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="https://url.gratis/qozXgl" group-title="Canais | Variedades",GNT SD
+http://dnsl.me:80/5104215/3138192/4144
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel FHD" tvg-logo="https://url.gratis/QzuGmc" group-title=" Canais | Esportes PPV",Golf Channel FHD
+http://dnsl.me:80/5104215/3138192/62821
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel HD" tvg-logo="https://url.gratis/QzuGmc" group-title=" Canais | Esportes PPV",Golf Channel HD
+http://dnsl.me:80/5104215/3138192/62822
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 FHD" tvg-logo="https://url.gratis/ninZRM" group-title="Canais | Documentários",H2 FHD
+http://dnsl.me:80/5104215/3138192/4479
+#EXTINF:-1 tvg-id="" tvg-name="H2 FHD [H265]" tvg-logo="https://url.gratis/ninZRM" group-title="Canais | Documentários",H2 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63916
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="https://url.gratis/ninZRM" group-title="Canais | Documentários",H2 HD
+http://dnsl.me:80/5104215/3138192/4481
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD [Alter]" tvg-logo="https://url.gratis/ninZRM" group-title="Canais | Documentários",H2 HD [Alter]
+http://dnsl.me:80/5104215/3138192/64016
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 SD" tvg-logo="https://url.gratis/ninZRM" group-title="Canais | Documentários",H2 SD
+http://dnsl.me:80/5104215/3138192/4482
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://url.gratis/8NYCqF" group-title="Canais | HBO",HBO 2 FHD
+http://dnsl.me:80/5104215/3138192/3823
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD [H265]" tvg-logo="https://url.gratis/8NYCqF" group-title="Canais | HBO",HBO 2 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63922
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://url.gratis/8NYCqF" group-title="Canais | HBO",HBO 2 HD
+http://dnsl.me:80/5104215/3138192/3824
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD [Alter]" tvg-logo="https://url.gratis/8NYCqF" group-title="Canais | HBO",HBO 2 HD [Alter]
+http://dnsl.me:80/5104215/3138192/64051
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://url.gratis/8NYCqF" group-title="Canais | HBO",HBO 2 SD
+http://dnsl.me:80/5104215/3138192/4087
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://url.gratis/GHhHoI" group-title="Canais | HBO",HBO Family FHD
+http://dnsl.me:80/5104215/3138192/3825
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD [H265]" tvg-logo="https://url.gratis/GHhHoI" group-title="Canais | HBO",HBO Family FHD [H265]
+http://dnsl.me:80/5104215/3138192/63918
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://url.gratis/GHhHoI" group-title="Canais | HBO",HBO Family HD
+http://dnsl.me:80/5104215/3138192/3826
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD [Alter]" tvg-logo="https://url.gratis/GHhHoI" group-title="Canais | HBO",HBO Family HD [Alter]
+http://dnsl.me:80/5104215/3138192/64052
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family SD" tvg-logo="https://url.gratis/GHhHoI" group-title="Canais | HBO",HBO Family SD
+http://dnsl.me:80/5104215/3138192/4088
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://url.gratis/R7ctKK" group-title="Canais | HBO",HBO FHD
+http://dnsl.me:80/5104215/3138192/3827
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD [H265]" tvg-logo="https://url.gratis/R7ctKK" group-title="Canais | HBO",HBO FHD [H265]
+http://dnsl.me:80/5104215/3138192/63919
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://url.gratis/R7ctKK" group-title="Canais | HBO",HBO HD
+http://dnsl.me:80/5104215/3138192/3828
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD [Alter]" tvg-logo="https://url.gratis/R7ctKK" group-title="Canais | HBO",HBO HD [Alter]
+http://dnsl.me:80/5104215/3138192/64053
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi FHD" tvg-logo="https://url.gratis/HXw4BT" group-title="Canais | HBO",HBO Mundi FHD
+http://dnsl.me:80/5104215/3138192/3829
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi FHD [H265]" tvg-logo="https://url.gratis/HXw4BT" group-title="Canais | HBO",HBO Mundi FHD [H265]
+http://dnsl.me:80/5104215/3138192/63926
+#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO Mundi HD" tvg-logo="https://url.gratis/HXw4BT" group-title="Canais | HBO",HBO Mundi HD
+http://dnsl.me:80/5104215/3138192/3830
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD [Alter]" tvg-logo="https://url.gratis/HXw4BT" group-title="Canais | HBO",HBO Mundi HD [Alter]
+http://dnsl.me:80/5104215/3138192/64054
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi SD" tvg-logo="https://url.gratis/HXw4BT" group-title="Canais | HBO",HBO Mundi SD
+http://dnsl.me:80/5104215/3138192/4091
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus FHD" tvg-logo="https://url.gratis/dd7ut8" group-title="Canais | HBO",HBO Plus FHD
+http://dnsl.me:80/5104215/3138192/3831
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus FHD [H265]" tvg-logo="https://url.gratis/dd7ut8" group-title="Canais | HBO",HBO Plus FHD [H265]
+http://dnsl.me:80/5104215/3138192/63920
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="https://url.gratis/dd7ut8" group-title="Canais | HBO",HBO Plus HD
+http://dnsl.me:80/5104215/3138192/3832
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD [Alter]" tvg-logo="https://url.gratis/dd7ut8" group-title="Canais | HBO",HBO Plus HD [Alter]
+http://dnsl.me:80/5104215/3138192/64055
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus SD" tvg-logo="https://url.gratis/dd7ut8" group-title="Canais | HBO",HBO Plus SD
+http://dnsl.me:80/5104215/3138192/4588
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop FHD" tvg-logo="https://url.gratis/A9O7xP" group-title="Canais | HBO",HBO Pop FHD
+http://dnsl.me:80/5104215/3138192/3833
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop FHD [H265]" tvg-logo="https://url.gratis/A9O7xP" group-title="Canais | HBO",HBO Pop FHD [H265]
+http://dnsl.me:80/5104215/3138192/63928
+#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO Pop HD" tvg-logo="https://url.gratis/A9O7xP" group-title="Canais | HBO",HBO Pop HD
+http://dnsl.me:80/5104215/3138192/3834
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop HD [Alter]" tvg-logo="https://url.gratis/A9O7xP" group-title="Canais | HBO",HBO Pop HD [Alter]
+http://dnsl.me:80/5104215/3138192/64056
+#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO Pop SD" tvg-logo="https://url.gratis/A9O7xP" group-title="Canais | HBO",HBO Pop SD
+http://dnsl.me:80/5104215/3138192/4095
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://url.gratis/R7ctKK" group-title="Canais | HBO",HBO SD
+http://dnsl.me:80/5104215/3138192/4584
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://url.gratis/qGOWKU" group-title="Canais | HBO",HBO Signature FHD
+http://dnsl.me:80/5104215/3138192/3835
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD [H265]" tvg-logo="https://url.gratis/qGOWKU" group-title="Canais | HBO",HBO Signature FHD [H265]
+http://dnsl.me:80/5104215/3138192/63921
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://url.gratis/qGOWKU" group-title="Canais | HBO",HBO Signature HD
+http://dnsl.me:80/5104215/3138192/3836
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD [Alter]" tvg-logo="https://url.gratis/qGOWKU" group-title="Canais | HBO",HBO Signature HD [Alter]
+http://dnsl.me:80/5104215/3138192/64057
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="https://url.gratis/qGOWKU" group-title="Canais | HBO",HBO Signature SD
+http://dnsl.me:80/5104215/3138192/4097
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://url.gratis/CBCF8" group-title="Canais | HBO",HBO Xtreme FHD
+http://dnsl.me:80/5104215/3138192/4594
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme FHD [H265]" tvg-logo="https://url.gratis/CBCF8" group-title="Canais | HBO",HBO Xtreme FHD [H265]
+http://dnsl.me:80/5104215/3138192/63927
+#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO Xtreme HD" tvg-logo="https://url.gratis/CBCF8" group-title="Canais | HBO",HBO Xtreme HD
+http://dnsl.me:80/5104215/3138192/3837
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme HD [Alter]" tvg-logo="https://url.gratis/CBCF8" group-title="Canais | HBO",HBO Xtreme HD [Alter]
+http://dnsl.me:80/5104215/3138192/64058
+#EXTINF:-1 tvg-id="aande.br" tvg-name="HBO Xtreme SD" tvg-logo="https://url.gratis/CBCF8" group-title="Canais | HBO",HBO Xtreme SD
+http://dnsl.me:80/5104215/3138192/4099
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="https://url.gratis/qKZqRP" group-title="Canais | Documentários",HGTV FHD
+http://dnsl.me:80/5104215/3138192/4483
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD [H265]" tvg-logo="https://url.gratis/qKZqRP" group-title="Canais | Documentários",HGTV FHD [H265]
+http://dnsl.me:80/5104215/3138192/63891
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://url.gratis/qKZqRP" group-title="Canais | Documentários",HGTV HD
+http://dnsl.me:80/5104215/3138192/4485
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD [Alter]" tvg-logo="https://url.gratis/qKZqRP" group-title="Canais | Documentários",HGTV HD [Alter]
+http://dnsl.me:80/5104215/3138192/64017
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="https://url.gratis/qKZqRP" group-title="Canais | Documentários",HGTV SD
+http://dnsl.me:80/5104215/3138192/4486
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel FHD" tvg-logo="https://url.gratis/KEElx" group-title="Canais | Documentários",History Channel FHD
+http://dnsl.me:80/5104215/3138192/4487
+#EXTINF:-1 tvg-id="" tvg-name="History Channel FHD [H265]" tvg-logo="https://url.gratis/KEElx" group-title="Canais | Documentários",History Channel FHD [H265]
+http://dnsl.me:80/5104215/3138192/63917
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD" tvg-logo="https://url.gratis/KEElx" group-title="Canais | Documentários",History Channel HD
+http://dnsl.me:80/5104215/3138192/4489
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD [Alter]" tvg-logo="https://url.gratis/KEElx" group-title="Canais | Documentários",History Channel HD [Alter]
+http://dnsl.me:80/5104215/3138192/64018
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel SD" tvg-logo="https://url.gratis/KEElx" group-title="Canais | Documentários",History Channel SD
+http://dnsl.me:80/5104215/3138192/4490
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID: Investigacao Discovery FHD" tvg-logo="https://url.gratis/tKWd6k" group-title="Canais | Documentários",ID: Investigacao Discovery FHD
+http://dnsl.me:80/5104215/3138192/4145
+#EXTINF:-1 tvg-id="" tvg-name="ID: Investigacao Discovery FHD [H265]" tvg-logo="https://url.gratis/tKWd6k" group-title="Canais | Documentários",ID: Investigacao Discovery FHD [H265]
+http://dnsl.me:80/5104215/3138192/63923
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID: Investigacao Discovery HD" tvg-logo="https://url.gratis/tKWd6k" group-title="Canais | Documentários",ID: Investigacao Discovery HD
+http://dnsl.me:80/5104215/3138192/4147
+#EXTINF:-1 tvg-id="" tvg-name="ID: Investigacao Discovery HD [Alter]" tvg-logo="https://url.gratis/tKWd6k" group-title="Canais | Documentários",ID: Investigacao Discovery HD [Alter]
+http://dnsl.me:80/5104215/3138192/64008
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID: Investigacao Discovery SD" tvg-logo="https://url.gratis/tKWd6k" group-title="Canais | Documentários",ID: Investigacao Discovery SD
+http://dnsl.me:80/5104215/3138192/4148
+#EXTINF:-1 tvg-id="" tvg-name="InterTV Cabo Frio HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",InterTV Cabo Frio HD
+http://dnsl.me:80/5104215/3138192/49580
+#EXTINF:-1 tvg-id="" tvg-name="InterTV RJ - Região Serrana FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",InterTV RJ - Região Serrana FHD
+http://dnsl.me:80/5104215/3138192/49595
+#EXTINF:-1 tvg-id="" tvg-name="InterTV RJ - Região Serrana HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",InterTV RJ - Região Serrana HD
+http://dnsl.me:80/5104215/3138192/49596
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime FHD" tvg-logo="https://url.gratis/gHDXxe" group-title="Canais | Variedades",Lifetime FHD
+http://dnsl.me:80/5104215/3138192/4149
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime FHD [H265]" tvg-logo="https://url.gratis/gHDXxe" group-title="Canais | Variedades",Lifetime FHD [H265]
+http://dnsl.me:80/5104215/3138192/63924
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://url.gratis/gHDXxe" group-title="Canais | Variedades",Lifetime HD
+http://dnsl.me:80/5104215/3138192/4151
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD [Alter]" tvg-logo="https://url.gratis/gHDXxe" group-title="Canais | Variedades",Lifetime HD [Alter]
+http://dnsl.me:80/5104215/3138192/63987
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime SD" tvg-logo="https://url.gratis/gHDXxe" group-title="Canais | Variedades",Lifetime SD
+http://dnsl.me:80/5104215/3138192/4152
+#EXTINF:-1 tvg-id="" tvg-name="Liga Futsal 1 HD" tvg-logo="https://url.gratis/dyDNg" group-title=" Canais | Esportes PPV",Liga Futsal 1 HD
+http://dnsl.me:80/5104215/3138192/64645
+#EXTINF:-1 tvg-id="" tvg-name="Liga Futsal 1 SD" tvg-logo="https://url.gratis/dyDNg" group-title=" Canais | Esportes PPV",Liga Futsal 1 SD
+http://dnsl.me:80/5104215/3138192/64646
+#EXTINF:-1 tvg-id="" tvg-name="Liga Futsal 2 HD" tvg-logo="https://url.gratis/dyDNg" group-title=" Canais | Esportes PPV",Liga Futsal 2 HD
+http://dnsl.me:80/5104215/3138192/64643
+#EXTINF:-1 tvg-id="" tvg-name="Liga Futsal 2 SD" tvg-logo="https://url.gratis/dyDNg" group-title=" Canais | Esportes PPV",Liga Futsal 2 SD
+http://dnsl.me:80/5104215/3138192/64644
+#EXTINF:-1 tvg-id="" tvg-name="Loading TV FHD" tvg-logo="https://url.gratis/i52Wzx" group-title="Canais | Abertos",Loading TV FHD
+http://dnsl.me:80/5104215/3138192/40639
+#EXTINF:-1 tvg-id="" tvg-name="Loading TV HD" tvg-logo="https://url.gratis/i52Wzx" group-title="Canais | Abertos",Loading TV HD
+http://dnsl.me:80/5104215/3138192/49533
+#EXTINF:-1 tvg-id="" tvg-name="Loading TV SD" tvg-logo="https://url.gratis/i52Wzx" group-title="Canais | Abertos",Loading TV SD
+http://dnsl.me:80/5104215/3138192/49608
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature FHD" tvg-logo="https://url.gratis/w8aSP" group-title="Canais | Variedades",Love Nature FHD
+http://dnsl.me:80/5104215/3138192/41312
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Mais GloboSat FHD" tvg-logo="https://url.gratis/7nKgfB" group-title="Canais | Variedades",Mais GloboSat FHD
+http://dnsl.me:80/5104215/3138192/4153
+#EXTINF:-1 tvg-id="" tvg-name="Mais GloboSat FHD [H265]" tvg-logo="https://url.gratis/7nKgfB" group-title="Canais | Variedades",Mais GloboSat FHD [H265]
+http://dnsl.me:80/5104215/3138192/63925
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Mais GloboSat HD" tvg-logo="https://url.gratis/7nKgfB" group-title="Canais | Variedades",Mais GloboSat HD
+http://dnsl.me:80/5104215/3138192/4155
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Mais GloboSat SD" tvg-logo="https://url.gratis/7nKgfB" group-title="Canais | Variedades",Mais GloboSat SD
+http://dnsl.me:80/5104215/3138192/4156
+#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela FHD" tvg-logo="https://url.gratis/0KQg9b" group-title="Canais | Documentários",Mais na Tela FHD
+http://dnsl.me:80/5104215/3138192/62605
+#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela HD" tvg-logo="https://url.gratis/0KQg9b" group-title="Canais | Documentários",Mais na Tela HD
+http://dnsl.me:80/5104215/3138192/62606
+#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela HD [Alter]" tvg-logo="https://url.gratis/0KQg9b" group-title="Canais | Documentários",Mais na Tela HD [Alter]
+http://dnsl.me:80/5104215/3138192/64022
+#EXTINF:-1 tvg-id="" tvg-name="Mais na Tela SD" tvg-logo="https://url.gratis/0KQg9b" group-title="Canais | Documentários",Mais na Tela SD
+http://dnsl.me:80/5104215/3138192/62607
+#EXTINF:-1 tvg-id="" tvg-name="Master TV HD" tvg-logo="https://url.gratis/Vw4TM" group-title="Canais | Abertos",Master TV HD
+http://dnsl.me:80/5104215/3138192/48970
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix FHD" tvg-logo="https://url.gratis/RcAv60" group-title="Canais | Filmes e Séries",Megapix FHD
+http://dnsl.me:80/5104215/3138192/3722
+#EXTINF:-1 tvg-id="" tvg-name="Megapix FHD [H265]" tvg-logo="https://url.gratis/RcAv60" group-title="Canais | Filmes e Séries",Megapix FHD [H265]
+http://dnsl.me:80/5104215/3138192/63929
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="https://url.gratis/RcAv60" group-title="Canais | Filmes e Séries",Megapix HD
+http://dnsl.me:80/5104215/3138192/3721
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD [Alter]" tvg-logo="https://url.gratis/RcAv60" group-title="Canais | Filmes e Séries",Megapix HD [Alter]
+http://dnsl.me:80/5104215/3138192/64030
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix SD" tvg-logo="https://url.gratis/RcAv60" group-title="Canais | Filmes e Séries",Megapix SD
+http://dnsl.me:80/5104215/3138192/4350
+#EXTINF:-1 tvg-id="" tvg-name="Mosaico Premiere FHD" tvg-logo="https://url.gratis/zXCK7h" group-title="Canais | Premiere",Mosaico Premiere FHD
+http://dnsl.me:80/5104215/3138192/62823
+#EXTINF:-1 tvg-id="" tvg-name="Mosaico Premiere HD" tvg-logo="https://url.gratis/zXCK7h" group-title="Canais | Premiere",Mosaico Premiere HD
+http://dnsl.me:80/5104215/3138192/62824
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="https://url.gratis/7ASigW" group-title="Canais | Variedades",MTV FHD
+http://dnsl.me:80/5104215/3138192/4164
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD [H265]" tvg-logo="https://url.gratis/7ASigW" group-title="Canais | Variedades",MTV FHD [H265]
+http://dnsl.me:80/5104215/3138192/63930
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="https://url.gratis/7ASigW" group-title="Canais | Variedades",MTV HD
+http://dnsl.me:80/5104215/3138192/4159
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD [Alter]" tvg-logo="https://url.gratis/7ASigW" group-title="Canais | Variedades",MTV HD [Alter]
+http://dnsl.me:80/5104215/3138192/63989
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="https://url.gratis/7ASigW" group-title="Canais | Variedades",MTV SD
+http://dnsl.me:80/5104215/3138192/25581
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow FHD" tvg-logo="https://url.gratis/qujlng" group-title="Canais | Variedades",Multishow FHD
+http://dnsl.me:80/5104215/3138192/4165
+#EXTINF:-1 tvg-id="" tvg-name="Multishow FHD [H265]" tvg-logo="https://url.gratis/qujlng" group-title="Canais | Variedades",Multishow FHD [H265]
+http://dnsl.me:80/5104215/3138192/63931
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="https://url.gratis/qujlng" group-title="Canais | Variedades",Multishow HD
+http://dnsl.me:80/5104215/3138192/4167
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD [Alter]" tvg-logo="https://url.gratis/qujlng" group-title="Canais | Variedades",Multishow HD [Alter]
+http://dnsl.me:80/5104215/3138192/63990
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow SD" tvg-logo="https://url.gratis/qujlng" group-title="Canais | Variedades",Multishow SD
+http://dnsl.me:80/5104215/3138192/4168
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="Music Box Brasil FHD" tvg-logo="https://url.gratis/NT5m5K" group-title="Canais | Variedades",Music Box Brasil FHD
+http://dnsl.me:80/5104215/3138192/4169
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="Music Box Brasil HD" tvg-logo="https://url.gratis/NT5m5K" group-title="Canais | Variedades",Music Box Brasil HD
+http://dnsl.me:80/5104215/3138192/4170
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brasil HD [Alter]" tvg-logo="https://url.gratis/NT5m5K" group-title="Canais | Variedades",Music Box Brasil HD [Alter]
+http://dnsl.me:80/5104215/3138192/63991
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="Music Box Brasil SD" tvg-logo="https://url.gratis/NT5m5K" group-title="Canais | Variedades",Music Box Brasil SD
+http://dnsl.me:80/5104215/3138192/4171
+#EXTINF:-1 tvg-id="" tvg-name="MyCujoo TV 1 HD" tvg-logo="https://url.gratis/agTSXI" group-title=" Canais | Esportes PPV",MyCujoo TV 1 HD
+http://dnsl.me:80/5104215/3138192/56787
+#EXTINF:-1 tvg-id="" tvg-name="MyCujoo TV 2 HD" tvg-logo="https://url.gratis/agTSXI" group-title=" Canais | Esportes PPV",MyCujoo TV 2 HD
+http://dnsl.me:80/5104215/3138192/56788
+#EXTINF:-1 tvg-id="" tvg-name="MyCujoo TV 3 HD" tvg-logo="https://url.gratis/agTSXI" group-title=" Canais | Esportes PPV",MyCujoo TV 3 HD
+http://dnsl.me:80/5104215/3138192/56789
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NatGeo Kids FHD" tvg-logo="https://url.gratis/LAUEwo" group-title="Canais | Infantis",NatGeo Kids FHD
+http://dnsl.me:80/5104215/3138192/3842
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids FHD [H265]" tvg-logo="https://url.gratis/LAUEwo" group-title="Canais | Infantis",NatGeo Kids FHD [H265]
+http://dnsl.me:80/5104215/3138192/63932
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NatGeo Kids HD" tvg-logo="https://url.gratis/LAUEwo" group-title="Canais | Infantis",NatGeo Kids HD
+http://dnsl.me:80/5104215/3138192/3843
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids HD [Alter]" tvg-logo="https://url.gratis/LAUEwo" group-title="Canais | Infantis",NatGeo Kids HD [Alter]
+http://dnsl.me:80/5104215/3138192/64074
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="NatGeo Kids SD" tvg-logo="https://url.gratis/LAUEwo" group-title="Canais | Infantis",NatGeo Kids SD
+http://dnsl.me:80/5104215/3138192/4550
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic FHD" tvg-logo="https://url.gratis/fWBGFB" group-title="Canais | Documentários",National Geographic FHD
+http://dnsl.me:80/5104215/3138192/4491
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD [H265]" tvg-logo="https://url.gratis/fWBGFB" group-title="Canais | Documentários",National Geographic FHD [H265]
+http://dnsl.me:80/5104215/3138192/63933
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="https://url.gratis/fWBGFB" group-title="Canais | Documentários",National Geographic HD
+http://dnsl.me:80/5104215/3138192/4493
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD [Alter]" tvg-logo="https://url.gratis/fWBGFB" group-title="Canais | Documentários",National Geographic HD [Alter]
+http://dnsl.me:80/5104215/3138192/64019
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic SD" tvg-logo="https://url.gratis/fWBGFB" group-title="Canais | Documentários",National Geographic SD
+http://dnsl.me:80/5104215/3138192/4494
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic Wild FHD" tvg-logo="https://url.gratis/v9uYkF" group-title="Canais | Documentários",National Geographic Wild FHD
+http://dnsl.me:80/5104215/3138192/4495
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild FHD [H265]" tvg-logo="https://url.gratis/v9uYkF" group-title="Canais | Documentários",National Geographic Wild FHD [H265]
+http://dnsl.me:80/5104215/3138192/63934
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic Wild HD" tvg-logo="https://url.gratis/v9uYkF" group-title="Canais | Documentários",National Geographic Wild HD
+http://dnsl.me:80/5104215/3138192/4497
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD [Alter]" tvg-logo="https://url.gratis/v9uYkF" group-title="Canais | Documentários",National Geographic Wild HD [Alter]
+http://dnsl.me:80/5104215/3138192/64020
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic Wild SD" tvg-logo="https://url.gratis/v9uYkF" group-title="Canais | Documentários",National Geographic Wild SD
+http://dnsl.me:80/5104215/3138192/4498
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass FHD" tvg-logo="https://url.gratis/nxxE0s" group-title=" Canais | Esportes PPV",NBA League Pass FHD
+http://dnsl.me:80/5104215/3138192/46066
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass HD" tvg-logo="https://url.gratis/nxxE0s" group-title=" Canais | Esportes PPV",NBA League Pass HD
+http://dnsl.me:80/5104215/3138192/46067
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr FHD" tvg-logo="https://url.gratis/KZ5GwE" group-title="Canais | Infantis",Nick Jr FHD
+http://dnsl.me:80/5104215/3138192/3845
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr FHD [H265]" tvg-logo="https://url.gratis/KZ5GwE" group-title="Canais | Infantis",Nick Jr FHD [H265]
+http://dnsl.me:80/5104215/3138192/63935
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr HD" tvg-logo="https://url.gratis/KZ5GwE" group-title="Canais | Infantis",Nick Jr HD
+http://dnsl.me:80/5104215/3138192/3846
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr HD [Alter]" tvg-logo="https://url.gratis/KZ5GwE" group-title="Canais | Infantis",Nick Jr HD [Alter]
+http://dnsl.me:80/5104215/3138192/64075
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr SD" tvg-logo="https://url.gratis/KZ5GwE" group-title="Canais | Infantis",Nick Jr SD
+http://dnsl.me:80/5104215/3138192/4554
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon FHD" tvg-logo="https://url.gratis/QoECDx" group-title="Canais | Infantis",Nickelodeon FHD
+http://dnsl.me:80/5104215/3138192/3847
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD [H265]" tvg-logo="https://url.gratis/QoECDx" group-title="Canais | Infantis",Nickelodeon FHD [H265]
+http://dnsl.me:80/5104215/3138192/63936
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="https://url.gratis/QoECDx" group-title="Canais | Infantis",Nickelodeon HD
+http://dnsl.me:80/5104215/3138192/3848
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD [Alter]" tvg-logo="https://url.gratis/QoECDx" group-title="Canais | Infantis",Nickelodeon HD [Alter]
+http://dnsl.me:80/5104215/3138192/64076
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon SD" tvg-logo="https://url.gratis/QoECDx" group-title="Canais | Infantis",Nickelodeon SD
+http://dnsl.me:80/5104215/3138192/4555
+#EXTINF:-1 tvg-id="" tvg-name="Nova Era FHD" tvg-logo="https://url.gratis/Y5Z4ID" group-title="Canais | Religiosos",Nova Era FHD
+http://dnsl.me:80/5104215/3138192/48624
+#EXTINF:-1 tvg-id="" tvg-name="Nova Manchete HD" tvg-logo="https://url.gratis/2UCyWG" group-title="Canais | Variedades",Nova Manchete HD
+http://dnsl.me:80/5104215/3138192/48610
+#EXTINF:-1 tvg-id="" tvg-name="Nova Manchete HD [Alter]" tvg-logo="https://url.gratis/2UCyWG" group-title="Canais | Variedades",Nova Manchete HD [Alter]
+http://dnsl.me:80/5104215/3138192/64004
+#EXTINF:-1 tvg-id="off.br" tvg-name="Off FHD" tvg-logo="https://url.gratis/ZczQbm" group-title="Canais | Variedades",Off FHD
+http://dnsl.me:80/5104215/3138192/4172
+#EXTINF:-1 tvg-id="" tvg-name="Off FHD [H265]" tvg-logo="https://url.gratis/ZczQbm" group-title="Canais | Variedades",Off FHD [H265]
+http://dnsl.me:80/5104215/3138192/63937
+#EXTINF:-1 tvg-id="off.br" tvg-name="Off HD" tvg-logo="https://url.gratis/ZczQbm" group-title="Canais | Variedades",Off HD
+http://dnsl.me:80/5104215/3138192/4174
+#EXTINF:-1 tvg-id="" tvg-name="Off HD [Alter]" tvg-logo="https://url.gratis/ZczQbm" group-title="Canais | Variedades",Off HD [Alter]
+http://dnsl.me:80/5104215/3138192/63992
+#EXTINF:-1 tvg-id="off.br" tvg-name="Off SD" tvg-logo="https://url.gratis/ZczQbm" group-title="Canais | Variedades",Off SD
+http://dnsl.me:80/5104215/3138192/4175
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel FHD" tvg-logo="https://url.gratis/zZRhPw" group-title="Canais | Filmes e Séries",Paramount Channel FHD
+http://dnsl.me:80/5104215/3138192/3723
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD [H265]" tvg-logo="https://url.gratis/zZRhPw" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
+http://dnsl.me:80/5104215/3138192/63938
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="https://url.gratis/zZRhPw" group-title="Canais | Filmes e Séries",Paramount Channel HD
+http://dnsl.me:80/5104215/3138192/3724
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD [Alter]" tvg-logo="https://url.gratis/zZRhPw" group-title="Canais | Filmes e Séries",Paramount Channel HD [Alter]
+http://dnsl.me:80/5104215/3138192/64031
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel SD" tvg-logo="https://url.gratis/zZRhPw" group-title="Canais | Filmes e Séries",Paramount Channel SD
+http://dnsl.me:80/5104215/3138192/4348
+#EXTINF:-1 tvg-id="playtv.br" tvg-name="Play TV FHD" tvg-logo="https://url.gratis/wqZjxi" group-title="Canais | Variedades",Play TV FHD
+http://dnsl.me:80/5104215/3138192/49280
+#EXTINF:-1 tvg-id="playtv.br" tvg-name="Play TV HD" tvg-logo="https://url.gratis/wqZjxi" group-title="Canais | Variedades",Play TV HD
+http://dnsl.me:80/5104215/3138192/49281
+#EXTINF:-1 tvg-id="" tvg-name="Play TV HD [Alter]" tvg-logo="https://url.gratis/wqZjxi" group-title="Canais | Variedades",Play TV HD [Alter]
+http://dnsl.me:80/5104215/3138192/64005
+#EXTINF:-1 tvg-id="playtv.br" tvg-name="Play TV SD" tvg-logo="https://url.gratis/wqZjxi" group-title="Canais | Variedades",Play TV SD
+http://dnsl.me:80/5104215/3138192/1547
+#EXTINF:-1 tvg-id="aande.br" tvg-name="PlayKids FHD" tvg-logo="https://url.gratis/UvoJVh" group-title="Canais | Infantis",PlayKids FHD
+http://dnsl.me:80/5104215/3138192/4556
+#EXTINF:-1 tvg-id="" tvg-name="PlayKids HD" tvg-logo="https://url.gratis/UvoJVh" group-title="Canais | Infantis",PlayKids HD
+http://dnsl.me:80/5104215/3138192/3841
+#EXTINF:-1 tvg-id="" tvg-name="PlayKids HD [Alter]" tvg-logo="https://url.gratis/ePXPK5" group-title="Canais | Infantis",PlayKids HD [Alter]
+http://dnsl.me:80/5104215/3138192/64073
+#EXTINF:-1 tvg-id="aande.br" tvg-name="PlayKids SD" tvg-logo="https://url.gratis/UvoJVh" group-title="Canais | Infantis",PlayKids SD
+http://dnsl.me:80/5104215/3138192/40642
+#EXTINF:-1 tvg-id="" tvg-name="Polishop FHD" tvg-logo="https://url.gratis/QUqLh6" group-title="Canais | Abertos",Polishop FHD
+http://dnsl.me:80/5104215/3138192/48971
+#EXTINF:-1 tvg-id="" tvg-name="Polishop SD" tvg-logo="https://url.gratis/QUqLh6" group-title="Canais | Abertos",Polishop SD
+http://dnsl.me:80/5104215/3138192/49599
+#EXTINF:-1 tvg-id="" tvg-name="Power Couple Brasil HD" tvg-logo="https://url.gratis/oRsSwB" group-title="Canais | PPV",Power Couple Brasil HD
+http://dnsl.me:80/5104215/3138192/63363
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 2 FHD
+http://dnsl.me:80/5104215/3138192/3871
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63939
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 2 HD
+http://dnsl.me:80/5104215/3138192/3872
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD [Alter]" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 2 HD [Alter]
+http://dnsl.me:80/5104215/3138192/64059
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 2 SD
+http://dnsl.me:80/5104215/3138192/4512
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 FHD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 3 FHD
+http://dnsl.me:80/5104215/3138192/3873
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 3 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63940
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 3 HD
+http://dnsl.me:80/5104215/3138192/3874
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD [Alter]" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 3 HD [Alter]
+http://dnsl.me:80/5104215/3138192/64060
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 3 SD
+http://dnsl.me:80/5104215/3138192/4514
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 FHD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 4 FHD
+http://dnsl.me:80/5104215/3138192/4056
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 4 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63941
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 4 HD
+http://dnsl.me:80/5104215/3138192/3875
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD [Alter]" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 4 HD [Alter]
+http://dnsl.me:80/5104215/3138192/64061
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 4 SD
+http://dnsl.me:80/5104215/3138192/4516
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 FHD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 5 FHD
+http://dnsl.me:80/5104215/3138192/3876
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 FHD [H265]" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 5 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63942
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 5 HD
+http://dnsl.me:80/5104215/3138192/3877
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD [Alter]" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 5 HD [Alter]
+http://dnsl.me:80/5104215/3138192/64062
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 5 SD
+http://dnsl.me:80/5104215/3138192/4518
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 6 FHD
+http://dnsl.me:80/5104215/3138192/4057
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 FHD [H265]" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 6 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63943
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 6 HD
+http://dnsl.me:80/5104215/3138192/3878
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD [Alter]" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 6 HD [Alter]
+http://dnsl.me:80/5104215/3138192/64063
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 6 SD
+http://dnsl.me:80/5104215/3138192/4520
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 FHD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 7 FHD
+http://dnsl.me:80/5104215/3138192/4058
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 FHD [H265]" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 7 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63944
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 7 HD
+http://dnsl.me:80/5104215/3138192/3879
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD [Alter]" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 7 HD [Alter]
+http://dnsl.me:80/5104215/3138192/64064
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 SD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 7 SD
+http://dnsl.me:80/5104215/3138192/4522
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="Premiere 8 HD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere 8 HD
+http://dnsl.me:80/5104215/3138192/18276
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere Clubes FHD
+http://dnsl.me:80/5104215/3138192/3881
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes FHD [H265]" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
+http://dnsl.me:80/5104215/3138192/63945
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere Clubes HD
+http://dnsl.me:80/5104215/3138192/3882
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD [Alter]" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere Clubes HD [Alter]
+http://dnsl.me:80/5104215/3138192/64065
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes SD" tvg-logo="https://url.gratis/hAtWwC" group-title="Canais | Premiere",Premiere Clubes SD
+http://dnsl.me:80/5104215/3138192/4524
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="Prime Box Brasil FHD" tvg-logo="https://url.gratis/T6UoZW" group-title="Canais | Variedades",Prime Box Brasil FHD
+http://dnsl.me:80/5104215/3138192/4177
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="Prime Box Brasil HD" tvg-logo="https://url.gratis/T6UoZW" group-title="Canais | Variedades",Prime Box Brasil HD
+http://dnsl.me:80/5104215/3138192/4179
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brasil HD [Alter]" tvg-logo="https://url.gratis/T6UoZW" group-title="Canais | Variedades",Prime Box Brasil HD [Alter]
+http://dnsl.me:80/5104215/3138192/63993
+#EXTINF:-1 tvg-id="primeboxbrazil.br" tvg-name="Prime Box Brasil SD" tvg-logo="https://url.gratis/T6UoZW" group-title="Canais | Variedades",Prime Box Brasil SD
+http://dnsl.me:80/5104215/3138192/4180
+#EXTINF:-1 tvg-id="" tvg-name="RBI TV FHD" tvg-logo="" group-title="Canais | Abertos",RBI TV FHD
+http://dnsl.me:80/5104215/3138192/49282
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Santa Maria FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",RBS TV Santa Maria FHD
+http://dnsl.me:80/5104215/3138192/40653
+#EXTINF:-1 tvg-id="" tvg-name="RBT Rede Brasil TV HD" tvg-logo="https://url.gratis/Y4o4Tm" group-title="Canais | Abertos",RBT Rede Brasil TV HD
+http://dnsl.me:80/5104215/3138192/48972
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV SD" tvg-logo="https://url.gratis/dJxK6Y" group-title=" Canais | Esportes PPV",Real Madrid TV SD
+http://dnsl.me:80/5104215/3138192/11689
+#EXTINF:-1 tvg-id="" tvg-name="Record BA HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record BA HD
+http://dnsl.me:80/5104215/3138192/48958
+#EXTINF:-1 tvg-id="" tvg-name="Record BH Minas HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record BH Minas HD
+http://dnsl.me:80/5104215/3138192/48906
+#EXTINF:-1 tvg-id="" tvg-name="Record Brasilia HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record Brasilia HD
+http://dnsl.me:80/5104215/3138192/48907
+#EXTINF:-1 tvg-id="" tvg-name="Record ES HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record ES HD
+http://dnsl.me:80/5104215/3138192/48960
+#EXTINF:-1 tvg-id="" tvg-name="Record Itapoan - Bahia HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record Itapoan - Bahia HD
+http://dnsl.me:80/5104215/3138192/48922
+#EXTINF:-1 tvg-id="" tvg-name="Record Manaus HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record Manaus HD
+http://dnsl.me:80/5104215/3138192/48921
+#EXTINF:-1 tvg-id="" tvg-name="Record News FHD" tvg-logo="https://url.gratis/5MfOKV" group-title="Canais | Notícias",Record News FHD
+http://dnsl.me:80/5104215/3138192/62826
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="https://url.gratis/5MfOKV" group-title="Canais | Notícias",Record News HD
+http://dnsl.me:80/5104215/3138192/3514
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News SD" tvg-logo="https://url.gratis/5MfOKV" group-title="Canais | Notícias",Record News SD
+http://dnsl.me:80/5104215/3138192/4570
+#EXTINF:-1 tvg-id="" tvg-name="Record RJ HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record RJ HD
+http://dnsl.me:80/5104215/3138192/48915
+#EXTINF:-1 tvg-id="" tvg-name="Record RS HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record RS HD
+http://dnsl.me:80/5104215/3138192/48908
+#EXTINF:-1 tvg-id="" tvg-name="Record Sao Jose Rio Preto HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record Sao Jose Rio Preto HD
+http://dnsl.me:80/5104215/3138192/48909
+#EXTINF:-1 tvg-id="" tvg-name="Record Sergipe - Tv Atalaia HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record Sergipe - Tv Atalaia HD
+http://dnsl.me:80/5104215/3138192/48910
+#EXTINF:-1 tvg-id="" tvg-name="Record SP FHD [H265]" tvg-logo="https://url.gratis/Z3CUMP" group-title="Canais | Abertos",Record SP FHD [H265]
+http://dnsl.me:80/5104215/3138192/63976
+#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record SP HD
+http://dnsl.me:80/5104215/3138192/48911
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Belém HD" tvg-logo="" group-title="Canais | Abertos",Record TV Belém HD
+http://dnsl.me:80/5104215/3138192/48959
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Cabralia HD Bahia" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record TV Cabralia HD Bahia
+http://dnsl.me:80/5104215/3138192/48916
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Goiânia FHD [H265]" tvg-logo="https://url.gratis/Z3CUMP" group-title="Canais | Abertos",Record TV Goiânia FHD [H265]
+http://dnsl.me:80/5104215/3138192/63967
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Goiânia HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record TV Goiânia HD
+http://dnsl.me:80/5104215/3138192/49528
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Litoral Santos HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record TV Litoral Santos HD
+http://dnsl.me:80/5104215/3138192/48913
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Minas HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record TV Minas HD
+http://dnsl.me:80/5104215/3138192/48914
+#EXTINF:-1 tvg-id="" tvg-name="Record Tv Parana HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record Tv Parana HD
+http://dnsl.me:80/5104215/3138192/48920
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Paranaíba - Uberlandia-MG HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record TV Paranaíba - Uberlandia-MG HD
+http://dnsl.me:80/5104215/3138192/48917
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Santa Catarina HD" tvg-logo="https://url.gratis/Gm0Aqn" group-title="Canais | Abertos",Record TV Santa Catarina HD
+http://dnsl.me:80/5104215/3138192/48919
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Thathi Campinas FHD" tvg-logo="https://url.gratis/EY6g5C" group-title="Canais | Abertos",Record TV Thathi Campinas FHD
+http://dnsl.me:80/5104215/3138192/49593
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Thathi Campinas HD" tvg-logo="https://url.gratis/EY6g5C" group-title="Canais | Abertos",Record TV Thathi Campinas HD
+http://dnsl.me:80/5104215/3138192/49577
+#EXTINF:-1 tvg-id="" tvg-name="Rede Familia FHD" tvg-logo="" group-title="Canais | Religiosos",Rede Familia FHD
+http://dnsl.me:80/5104215/3138192/48625
+#EXTINF:-1 tvg-id="" tvg-name="Rede Genesis FHD" tvg-logo="" group-title="Canais | Religiosos",Rede Genesis FHD
+http://dnsl.me:80/5104215/3138192/48626
+#EXTINF:-1 tvg-id="" tvg-name="Rede Genesis SD" tvg-logo="" group-title="Canais | Religiosos",Rede Genesis SD
+http://dnsl.me:80/5104215/3138192/48627
+#EXTINF:-1 tvg-id="" tvg-name="Rede Minas" tvg-logo="" group-title="Canais | Abertos",Rede Minas
+http://dnsl.me:80/5104215/3138192/49529
+#EXTINF:-1 tvg-id="" tvg-name="Rede Super FHD" tvg-logo="" group-title="Canais | Religiosos",Rede Super FHD
+http://dnsl.me:80/5104215/3138192/48628
+#EXTINF:-1 tvg-id="" tvg-name="Rede Super SD" tvg-logo="" group-title="Canais | Religiosos",Rede Super SD
+http://dnsl.me:80/5104215/3138192/48629
+#EXTINF:-1 tvg-id="" tvg-name="Rede Século 21" tvg-logo="" group-title="Canais | Religiosos",Rede Século 21
+http://dnsl.me:80/5104215/3138192/48630
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV FHD" tvg-logo="https://url.gratis/9cmJpW" group-title="Canais | Abertos",Rede TV FHD
+http://dnsl.me:80/5104215/3138192/48631
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV FHD [H265]" tvg-logo="https://url.gratis/9cmJpW" group-title="Canais | Abertos",Rede TV FHD [H265]
+http://dnsl.me:80/5104215/3138192/63968
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD" tvg-logo="https://url.gratis/9cmJpW" group-title="Canais | Abertos",Rede TV HD
+http://dnsl.me:80/5104215/3138192/48632
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV SD" tvg-logo="https://url.gratis/9cmJpW" group-title="Canais | Abertos",Rede TV SD
+http://dnsl.me:80/5104215/3138192/48633
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida SD" tvg-logo="https://url.gratis/YdUcjW" group-title="Canais | Religiosos",Rede Vida SD
+http://dnsl.me:80/5104215/3138192/49368
+#EXTINF:-1 tvg-id="rittv.br" tvg-name="RIT TV FHD" tvg-logo="https://url.gratis/ecpjoZ" group-title="Canais | Religiosos",RIT TV FHD
+http://dnsl.me:80/5104215/3138192/48634
+#EXTINF:-1 tvg-id="rittv.br" tvg-name="RIT TV HD" tvg-logo="https://url.gratis/ecpjoZ" group-title="Canais | Religiosos",RIT TV HD
+http://dnsl.me:80/5104215/3138192/49522
+#EXTINF:-1 tvg-id="" tvg-name="Santuário de Fátima FHD" tvg-logo="https://url.gratis/eMZdF0" group-title="Canais | Religiosos",Santuário de Fátima FHD
+http://dnsl.me:80/5104215/3138192/48636
+#EXTINF:-1 tvg-id="" tvg-name="SBT BA HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT BA HD
+http://dnsl.me:80/5104215/3138192/48949
+#EXTINF:-1 tvg-id="" tvg-name="SBT BSB HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT BSB HD
+http://dnsl.me:80/5104215/3138192/48925
+#EXTINF:-1 tvg-id="" tvg-name="SBT ES FHD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT ES FHD
+http://dnsl.me:80/5104215/3138192/48924
+#EXTINF:-1 tvg-id="" tvg-name="SBT ES HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT ES HD
+http://dnsl.me:80/5104215/3138192/49573
+#EXTINF:-1 tvg-id="" tvg-name="SBT ES SD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT ES SD
+http://dnsl.me:80/5104215/3138192/49572
+#EXTINF:-1 tvg-id="" tvg-name="SBT GO HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT GO HD
+http://dnsl.me:80/5104215/3138192/48950
+#EXTINF:-1 tvg-id="" tvg-name="SBT Int SP FHD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT Int SP FHD
+http://dnsl.me:80/5104215/3138192/48951
+#EXTINF:-1 tvg-id="" tvg-name="SBT MA SD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT MA SD
+http://dnsl.me:80/5104215/3138192/48952
+#EXTINF:-1 tvg-id="" tvg-name="SBT MG TV Alterosa HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT MG TV Alterosa HD
+http://dnsl.me:80/5104215/3138192/48935
+#EXTINF:-1 tvg-id="" tvg-name="SBT MT HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT MT HD
+http://dnsl.me:80/5104215/3138192/48953
+#EXTINF:-1 tvg-id="" tvg-name="SBT Parana HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT Parana HD
+http://dnsl.me:80/5104215/3138192/48934
+#EXTINF:-1 tvg-id="" tvg-name="SBT PI FHD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT PI FHD
+http://dnsl.me:80/5104215/3138192/48954
+#EXTINF:-1 tvg-id="" tvg-name="SBT PR HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT PR HD
+http://dnsl.me:80/5104215/3138192/48955
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ FHD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT RJ FHD
+http://dnsl.me:80/5104215/3138192/48937
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT RJ HD
+http://dnsl.me:80/5104215/3138192/48936
+#EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT RS HD
+http://dnsl.me:80/5104215/3138192/48926
+#EXTINF:-1 tvg-id="" tvg-name="SBT Sergipe -Tv Aperiper HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT Sergipe -Tv Aperiper HD
+http://dnsl.me:80/5104215/3138192/48927
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP FHD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT SP FHD
+http://dnsl.me:80/5104215/3138192/48956
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT SP HD
+http://dnsl.me:80/5104215/3138192/48928
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP SD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT SP SD
+http://dnsl.me:80/5104215/3138192/48957
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Aratu Bahia HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT TV Aratu Bahia HD
+http://dnsl.me:80/5104215/3138192/48929
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Serra Dourada FHD [H265]" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT TV Serra Dourada FHD [H265]
+http://dnsl.me:80/5104215/3138192/63971
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV Serra Dourada HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT TV Serra Dourada HD
+http://dnsl.me:80/5104215/3138192/48923
+#EXTINF:-1 tvg-id="" tvg-name="SBT VTV Campinas FHD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT VTV Campinas FHD
+http://dnsl.me:80/5104215/3138192/49592
+#EXTINF:-1 tvg-id="" tvg-name="SBT VTV Campinas HD" tvg-logo="https://url.gratis/6nXki5" group-title="Canais | Abertos",SBT VTV Campinas HD
+http://dnsl.me:80/5104215/3138192/49591
+#EXTINF:-1 tvg-id="" tvg-name="Shoptime HD" tvg-logo="" group-title="Canais | Abertos",Shoptime HD
+http://dnsl.me:80/5104215/3138192/49143
+#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="Smithsonian Channel HD" tvg-logo="https://url.gratis/zGlWhP" group-title="Canais | Filmes e Séries",Smithsonian Channel HD
+http://dnsl.me:80/5104215/3138192/45691
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="https://url.gratis/UL0tfw" group-title="Canais | Filmes e Séries",Space FHD
+http://dnsl.me:80/5104215/3138192/3728
+#EXTINF:-1 tvg-id="" tvg-name="Space FHD [H265]" tvg-logo="https://url.gratis/UL0tfw" group-title="Canais | Filmes e Séries",Space FHD [H265]
+http://dnsl.me:80/5104215/3138192/63946
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="https://url.gratis/UL0tfw" group-title="Canais | Filmes e Séries",Space HD
+http://dnsl.me:80/5104215/3138192/3729
+#EXTINF:-1 tvg-id="" tvg-name="Space HD [Alter]" tvg-logo="https://url.gratis/UL0tfw" group-title="Canais | Filmes e Séries",Space HD [Alter]
+http://dnsl.me:80/5104215/3138192/64033
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="https://url.gratis/UL0tfw" group-title="Canais | Filmes e Séries",Space SD
+http://dnsl.me:80/5104215/3138192/4344
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 FHD" tvg-logo="https://url.gratis/jSoXg4" group-title="Canais | SporTV",SporTV 2 FHD
+http://dnsl.me:80/5104215/3138192/3696
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 FHD [H265]" tvg-logo="https://url.gratis/jSoXg4" group-title="Canais | SporTV",SporTV 2 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63947
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="https://url.gratis/jSoXg4" group-title="Canais | SporTV",SporTV 2 HD
+http://dnsl.me:80/5104215/3138192/3697
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="https://url.gratis/jSoXg4" group-title="Canais | SporTV",SporTV 2 SD
+http://dnsl.me:80/5104215/3138192/5991
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 FHD" tvg-logo="https://url.gratis/Ja62Xn" group-title="Canais | SporTV",SporTV 3 FHD
+http://dnsl.me:80/5104215/3138192/3698
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3 FHD [H265]" tvg-logo="https://url.gratis/Ja62Xn" group-title="Canais | SporTV",SporTV 3 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63948
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="https://url.gratis/Ja62Xn" group-title="Canais | SporTV",SporTV 3 HD
+http://dnsl.me:80/5104215/3138192/3699
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="https://url.gratis/Ja62Xn" group-title="Canais | SporTV",SporTV 3 SD
+http://dnsl.me:80/5104215/3138192/5992
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV FHD" tvg-logo="https://url.gratis/5nyqBt" group-title="Canais | SporTV",SporTV FHD
+http://dnsl.me:80/5104215/3138192/3700
+#EXTINF:-1 tvg-id="" tvg-name="SporTV FHD [H265]" tvg-logo="https://url.gratis/5nyqBt" group-title="Canais | SporTV",SporTV FHD [H265]
+http://dnsl.me:80/5104215/3138192/63949
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="https://url.gratis/5nyqBt" group-title="Canais | SporTV",SporTV HD
+http://dnsl.me:80/5104215/3138192/11691
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="https://url.gratis/5nyqBt" group-title="Canais | SporTV",SporTV SD
+http://dnsl.me:80/5104215/3138192/28857
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel FHD" tvg-logo="https://url.gratis/8tHwTr" group-title="Canais | Filmes e Séries",Star Channel FHD
+http://dnsl.me:80/5104215/3138192/3711
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel FHD [H265]" tvg-logo="https://url.gratis/8tHwTr" group-title="Canais | Filmes e Séries",Star Channel FHD [H265]
+http://dnsl.me:80/5104215/3138192/63907
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel HD" tvg-logo="https://url.gratis/8tHwTr" group-title="Canais | Filmes e Séries",Star Channel HD
+http://dnsl.me:80/5104215/3138192/3712
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD [Alter]" tvg-logo="https://url.gratis/8tHwTr" group-title="Canais | Filmes e Séries",Star Channel HD [Alter]
+http://dnsl.me:80/5104215/3138192/64026
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Star Channel SD" tvg-logo="https://url.gratis/8tHwTr" group-title="Canais | Filmes e Séries",Star Channel SD
+http://dnsl.me:80/5104215/3138192/4356
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Star Hits 1 FHD" tvg-logo="https://url.gratis/Xf3p7n" group-title="Canais | Filmes e Séries",Star Hits 1 FHD
+http://dnsl.me:80/5104215/3138192/3715
+#EXTINF:-1 tvg-id="" tvg-name="Star Hits 1 FHD [H265]" tvg-logo="https://url.gratis/Xf3p7n" group-title="Canais | Filmes e Séries",Star Hits 1 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63908
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Star Hits 1 HD" tvg-logo="https://url.gratis/Xf3p7n" group-title="Canais | Filmes e Séries",Star Hits 1 HD
+http://dnsl.me:80/5104215/3138192/3716
+#EXTINF:-1 tvg-id="" tvg-name="Star Hits 1 HD [Alter]" tvg-logo="https://url.gratis/Xf3p7n" group-title="Canais | Filmes e Séries",Star Hits 1 HD [Alter]
+http://dnsl.me:80/5104215/3138192/64027
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Star Hits 1 SD" tvg-logo="https://url.gratis/Xf3p7n" group-title="Canais | Filmes e Séries",Star Hits 1 SD
+http://dnsl.me:80/5104215/3138192/4358
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Star Hits 2 FHD" tvg-logo="https://url.gratis/FCSY5z" group-title="Canais | Filmes e Séries",Star Hits 2 FHD
+http://dnsl.me:80/5104215/3138192/3717
+#EXTINF:-1 tvg-id="" tvg-name="Star Hits 2 FHD [H265]" tvg-logo="https://url.gratis/FCSY5z" group-title="Canais | Filmes e Séries",Star Hits 2 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63909
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Star Hits 2 HD" tvg-logo="https://url.gratis/FCSY5z" group-title="Canais | Filmes e Séries",Star Hits 2 HD
+http://dnsl.me:80/5104215/3138192/3718
+#EXTINF:-1 tvg-id="" tvg-name="Star Hits 2 HD [Alter]" tvg-logo="https://url.gratis/FCSY5z" group-title="Canais | Filmes e Séries",Star Hits 2 HD [Alter]
+http://dnsl.me:80/5104215/3138192/64028
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Star Hits 2 SD" tvg-logo="https://url.gratis/FCSY5z" group-title="Canais | Filmes e Séries",Star Hits 2 SD
+http://dnsl.me:80/5104215/3138192/4354
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Star Life FHD" tvg-logo="https://url.gratis/7xMhpI" group-title="Canais | Variedades",Star Life FHD
+http://dnsl.me:80/5104215/3138192/5986
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Star Life HD" tvg-logo="https://url.gratis/7xMhpI" group-title="Canais | Variedades",Star Life HD
+http://dnsl.me:80/5104215/3138192/4139
+#EXTINF:-1 tvg-id="" tvg-name="Star Life HD [Alter]" tvg-logo="https://url.gratis/7xMhpI" group-title="Canais | Variedades",Star Life HD [Alter]
+http://dnsl.me:80/5104215/3138192/63985
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Star Life SD" tvg-logo="https://url.gratis/7xMhpI" group-title="Canais | Variedades",Star Life SD
+http://dnsl.me:80/5104215/3138192/4140
+#EXTINF:-1 tvg-id="" tvg-name="Status do COVID-19" tvg-logo="https://url.gratis/5d9dvB" group-title="Canais | Variedades",Status do COVID-19
+http://dnsl.me:80/5104215/3138192/4181
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal FHD" tvg-logo="https://url.gratis/qPYmg1" group-title="Canais | Filmes e Séries",Studio Universal FHD
+http://dnsl.me:80/5104215/3138192/3736
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal FHD [H265]" tvg-logo="https://url.gratis/qPYmg1" group-title="Canais | Filmes e Séries",Studio Universal FHD [H265]
+http://dnsl.me:80/5104215/3138192/63950
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://url.gratis/qPYmg1" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://dnsl.me:80/5104215/3138192/3737
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD [Alter]" tvg-logo="https://url.gratis/qPYmg1" group-title="Canais | Filmes e Séries",Studio Universal HD [Alter]
+http://dnsl.me:80/5104215/3138192/64034
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="https://url.gratis/qPYmg1" group-title="Canais | Filmes e Séries",Studio Universal SD
+http://dnsl.me:80/5104215/3138192/4342
+#EXTINF:-1 tvg-id="" tvg-name="Summer TV HD" tvg-logo="" group-title="Canais | Abertos",Summer TV HD
+http://dnsl.me:80/5104215/3138192/48973
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy FHD" tvg-logo="https://url.gratis/yMDlw0" group-title="Canais | Filmes e Séries",Syfy FHD
+http://dnsl.me:80/5104215/3138192/11173
+#EXTINF:-1 tvg-id="" tvg-name="Syfy FHD [H265]" tvg-logo="https://url.gratis/yMDlw0" group-title="Canais | Filmes e Séries",Syfy FHD [H265]
+http://dnsl.me:80/5104215/3138192/63951
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="https://url.gratis/yMDlw0" group-title="Canais | Filmes e Séries",Syfy HD
+http://dnsl.me:80/5104215/3138192/5996
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD [Alter]" tvg-logo="https://url.gratis/yMDlw0" group-title="Canais | Filmes e Séries",Syfy HD [Alter]
+http://dnsl.me:80/5104215/3138192/64040
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy SD" tvg-logo="https://url.gratis/yMDlw0" group-title="Canais | Filmes e Séries",Syfy SD
+http://dnsl.me:80/5104215/3138192/5997
+#EXTINF:-1 tvg-id="" tvg-name="Taormina TV HD" tvg-logo="https://url.gratis/Z1b1CZ" group-title="Canais | Variedades",Taormina TV HD
+http://dnsl.me:80/5104215/3138192/48608
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="https://url.gratis/w0CoS3" group-title="Canais | Filmes e Séries",TBS FHD
+http://dnsl.me:80/5104215/3138192/49283
+#EXTINF:-1 tvg-id="" tvg-name="TBS FHD [H265]" tvg-logo="https://url.gratis/w0CoS3" group-title="Canais | Filmes e Séries",TBS FHD [H265]
+http://dnsl.me:80/5104215/3138192/63952
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="https://url.gratis/w0CoS3" group-title="Canais | Filmes e Séries",TBS HD
+http://dnsl.me:80/5104215/3138192/5998
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD [Alter]" tvg-logo="https://url.gratis/w0CoS3" group-title="Canais | Filmes e Séries",TBS HD [Alter]
+http://dnsl.me:80/5104215/3138192/64041
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD" tvg-logo="https://url.gratis/w0CoS3" group-title="Canais | Filmes e Séries",TBS SD
+http://dnsl.me:80/5104215/3138192/5999
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="https://url.gratis/wq1bw" group-title="Canais | Filmes e Séries",TCM FHD
+http://dnsl.me:80/5104215/3138192/49284
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://url.gratis/wq1bw" group-title="Canais | Filmes e Séries",TCM HD
+http://dnsl.me:80/5104215/3138192/25663
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD [Alter]" tvg-logo="https://url.gratis/wq1bw" group-title="Canais | Filmes e Séries",TCM HD [Alter]
+http://dnsl.me:80/5104215/3138192/64042
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://url.gratis/wq1bw" group-title="Canais | Filmes e Séries",TCM SD
+http://dnsl.me:80/5104215/3138192/3738
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action FHD" tvg-logo="https://url.gratis/qQJJm2" group-title="Canais | Telecine",Telecine Action FHD
+http://dnsl.me:80/5104215/3138192/3895
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD [H265]" tvg-logo="https://url.gratis/qQJJm2" group-title="Canais | Telecine",Telecine Action FHD [H265]
+http://dnsl.me:80/5104215/3138192/63953
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="https://url.gratis/qQJJm2" group-title="Canais | Telecine",Telecine Action HD
+http://dnsl.me:80/5104215/3138192/3896
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD [Alter]" tvg-logo="https://url.gratis/qQJJm2" group-title="Canais | Telecine",Telecine Action HD [Alter]
+http://dnsl.me:80/5104215/3138192/64045
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action SD" tvg-logo="https://url.gratis/qQJJm2" group-title="Canais | Telecine",Telecine Action SD
+http://dnsl.me:80/5104215/3138192/4076
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult FHD" tvg-logo="https://url.gratis/iRWtxO" group-title="Canais | Telecine",Telecine Cult FHD
+http://dnsl.me:80/5104215/3138192/3897
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult FHD [H265]" tvg-logo="https://url.gratis/iRWtxO" group-title="Canais | Telecine",Telecine Cult FHD [H265]
+http://dnsl.me:80/5104215/3138192/63954
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="https://url.gratis/iRWtxO" group-title="Canais | Telecine",Telecine Cult HD
+http://dnsl.me:80/5104215/3138192/3898
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD [Alter]" tvg-logo="https://url.gratis/iRWtxO" group-title="Canais | Telecine",Telecine Cult HD [Alter]
+http://dnsl.me:80/5104215/3138192/64046
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult SD" tvg-logo="https://url.gratis/iRWtxO" group-title="Canais | Telecine",Telecine Cult SD
+http://dnsl.me:80/5104215/3138192/4078
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun FHD" tvg-logo="https://url.gratis/XTrRNK" group-title="Canais | Telecine",Telecine Fun FHD
+http://dnsl.me:80/5104215/3138192/3899
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun FHD [H265]" tvg-logo="https://url.gratis/XTrRNK" group-title="Canais | Telecine",Telecine Fun FHD [H265]
+http://dnsl.me:80/5104215/3138192/63955
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="https://url.gratis/XTrRNK" group-title="Canais | Telecine",Telecine Fun HD
+http://dnsl.me:80/5104215/3138192/3900
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD [Alter]" tvg-logo="hhttps://url.gratis/XTrRNK" group-title="Canais | Telecine",Telecine Fun HD [Alter]
+http://dnsl.me:80/5104215/3138192/64047
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun SD" tvg-logo="https://url.gratis/XTrRNK" group-title="Canais | Telecine",Telecine Fun SD
+http://dnsl.me:80/5104215/3138192/4080
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="https://url.gratis/jLBrzb" group-title="Canais | Telecine",Telecine Pipoca FHD
+http://dnsl.me:80/5104215/3138192/3901
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="https://url.gratis/jLBrzb" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
+http://dnsl.me:80/5104215/3138192/63956
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://url.gratis/jLBrzb" group-title="Canais | Telecine",Telecine Pipoca HD
+http://dnsl.me:80/5104215/3138192/3902
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD [Alter]" tvg-logo="https://url.gratis/jLBrzb" group-title="Canais | Telecine",Telecine Pipoca HD [Alter]
+http://dnsl.me:80/5104215/3138192/64048
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="https://url.gratis/jLBrzb" group-title="Canais | Telecine",Telecine Pipoca SD
+http://dnsl.me:80/5104215/3138192/4082
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium FHD" tvg-logo="https://url.gratis/6hWC8S" group-title="Canais | Telecine",Telecine Premium FHD
+http://dnsl.me:80/5104215/3138192/3903
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD [H265]" tvg-logo="https://url.gratis/6hWC8S" group-title="Canais | Telecine",Telecine Premium FHD [H265]
+http://dnsl.me:80/5104215/3138192/63957
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://url.gratis/6hWC8S" group-title="Canais | Telecine",Telecine Premium HD
+http://dnsl.me:80/5104215/3138192/3904
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD [Alter]" tvg-logo="https://url.gratis/6hWC8S" group-title="Canais | Telecine",Telecine Premium HD [Alter]
+http://dnsl.me:80/5104215/3138192/64049
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium SD" tvg-logo="https://url.gratis/6hWC8S" group-title="Canais | Telecine",Telecine Premium SD
+http://dnsl.me:80/5104215/3138192/4596
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch FHD" tvg-logo="https://url.gratis/kpuXn0" group-title="Canais | Telecine",Telecine Touch FHD
+http://dnsl.me:80/5104215/3138192/3905
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch FHD [H265]" tvg-logo="https://url.gratis/kpuXn0" group-title="Canais | Telecine",Telecine Touch FHD [H265]
+http://dnsl.me:80/5104215/3138192/63958
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="https://url.gratis/kpuXn0" group-title="Canais | Telecine",Telecine Touch HD
+http://dnsl.me:80/5104215/3138192/3906
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD [Alter]" tvg-logo="https://url.gratis/kpuXn0" group-title="Canais | Telecine",Telecine Touch HD [Alter]
+http://dnsl.me:80/5104215/3138192/64050
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch SD" tvg-logo="https://url.gratis/kpuXn0" group-title="Canais | Telecine",Telecine Touch SD
+http://dnsl.me:80/5104215/3138192/4578
+#EXTINF:-1 tvg-id="" tvg-name="Terra Viva FHD" tvg-logo="https://url.gratis/Mfk1Eb" group-title="Canais | Abertos",Terra Viva FHD
+http://dnsl.me:80/5104215/3138192/62608
+#EXTINF:-1 tvg-id="" tvg-name="Terra Viva HD" tvg-logo="https://url.gratis/Mfk1Eb" group-title="Canais | Abertos",Terra Viva HD
+http://dnsl.me:80/5104215/3138192/48974
+#EXTINF:-1 tvg-id="" tvg-name="Terra Viva SD" tvg-logo="https://url.gratis/Mfk1Eb" group-title="Canais | Abertos",Terra Viva SD
+http://dnsl.me:80/5104215/3138192/49602
+#EXTINF:-1 tvg-id="" tvg-name="The KPOP FHD" tvg-logo="https://url.gratis/GmbQtm" group-title="Canais | Variedades",The KPOP FHD
+http://dnsl.me:80/5104215/3138192/48607
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://url.gratis/2mGQAT" group-title="Canais | Filmes e Séries",TNT FHD
+http://dnsl.me:80/5104215/3138192/3739
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD [H265]" tvg-logo="https://url.gratis/2mGQAT" group-title="Canais | Filmes e Séries",TNT FHD [H265]
+http://dnsl.me:80/5104215/3138192/63960
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://url.gratis/2mGQAT" group-title="Canais | Filmes e Séries",TNT HD
+http://dnsl.me:80/5104215/3138192/3740
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD [Alter]" tvg-logo="https://url.gratis/2mGQAT" group-title="Canais | Filmes e Séries",TNT HD [Alter]
+http://dnsl.me:80/5104215/3138192/64035
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://url.gratis/2mGQAT" group-title="Canais | Filmes e Séries",TNT SD
+http://dnsl.me:80/5104215/3138192/4340
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series FHD" tvg-logo="https://url.gratis/5BUP9G" group-title="Canais | Filmes e Séries",TNT Series FHD
+http://dnsl.me:80/5104215/3138192/3741
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series FHD [H265]" tvg-logo="https://url.gratis/5BUP9G" group-title="Canais | Filmes e Séries",TNT Series FHD [H265]
+http://dnsl.me:80/5104215/3138192/63961
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series HD" tvg-logo="https://url.gratis/5BUP9G" group-title="Canais | Filmes e Séries",TNT Series HD
+http://dnsl.me:80/5104215/3138192/3742
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD [Alter]" tvg-logo="https://url.gratis/5BUP9G" group-title="Canais | Filmes e Séries",TNT Series HD [Alter]
+http://dnsl.me:80/5104215/3138192/64036
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series SD" tvg-logo="https://url.gratis/5BUP9G" group-title="Canais | Filmes e Séries",TNT Series SD
+http://dnsl.me:80/5104215/3138192/4338
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast FHD" tvg-logo="https://url.gratis/QB7mPw" group-title="Canais | Infantis",Tooncast FHD
+http://dnsl.me:80/5104215/3138192/5993
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="https://url.gratis/QB7mPw" group-title="Canais | Infantis",Tooncast HD
+http://dnsl.me:80/5104215/3138192/8049
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD [Alter]" tvg-logo="https://url.gratis/QB7mPw" group-title="Canais | Infantis",Tooncast HD [Alter]
+http://dnsl.me:80/5104215/3138192/64088
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast SD" tvg-logo="https://url.gratis/QB7mPw" group-title="Canais | Infantis",Tooncast SD
+http://dnsl.me:80/5104215/3138192/3840
+#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brazil FHD" tvg-logo="https://url.gratis/8sex0g" group-title="Canais | Variedades",Travel Box Brazil FHD
+http://dnsl.me:80/5104215/3138192/62828
+#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brazil HD" tvg-logo="https://url.gratis/8sex0g" group-title="Canais | Variedades",Travel Box Brazil HD
+http://dnsl.me:80/5104215/3138192/4186
+#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brazil HD [Alter]" tvg-logo="https://url.gratis/8sex0g" group-title="Canais | Variedades",Travel Box Brazil HD [Alter]
+http://dnsl.me:80/5104215/3138192/63994
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TruTV FHD" tvg-logo="https://url.gratis/2sOXrd" group-title="Canais | Documentários",TruTV FHD
+http://dnsl.me:80/5104215/3138192/49285
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TruTV HD" tvg-logo="https://url.gratis/2sOXrd" group-title="Canais | Documentários",TruTV HD
+http://dnsl.me:80/5104215/3138192/4499
+#EXTINF:-1 tvg-id="" tvg-name="TruTV HD [Alter]" tvg-logo="https://url.gratis/2sOXrd" group-title="Canais | Documentários",TruTV HD [Alter]
+http://dnsl.me:80/5104215/3138192/64021
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TruTV SD" tvg-logo="https://url.gratis/2sOXrd" group-title="Canais | Documentários",TruTV SD
+http://dnsl.me:80/5104215/3138192/40628
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida FHD" tvg-logo="https://url.gratis/roMH7q" group-title="Canais | Religiosos",TV Aparecida FHD
+http://dnsl.me:80/5104215/3138192/48637
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="https://url.gratis/roMH7q" group-title="Canais | Religiosos",TV Aparecida SD
+http://dnsl.me:80/5104215/3138192/49603
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil HD" tvg-logo="https://url.gratis/6Ufs4G" group-title="Canais | Abertos",TV Brasil HD
+http://dnsl.me:80/5104215/3138192/48975
+#EXTINF:-1 tvg-id="" tvg-name="TV Camara SD" tvg-logo="" group-title="Canais | Abertos",TV Camara SD
+http://dnsl.me:80/5104215/3138192/48964
+#EXTINF:-1 tvg-id="" tvg-name="TV Capixaba" tvg-logo="http://www.tvcapixaba.com.br/wp-content/themes/tvcapixaba/images/logo.png" group-title="Canais | Abertos",TV Capixaba
+http://dnsl.me:80/5104215/3138192/49582
+#EXTINF:-1 tvg-id="" tvg-name="TV Coxa HD" tvg-logo="" group-title=" Canais | Esportes PPV",TV Coxa HD
+http://dnsl.me:80/5104215/3138192/63365
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura FHD" tvg-logo="" group-title="Canais | Abertos",TV Cultura FHD
+http://dnsl.me:80/5104215/3138192/49587
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura HD" tvg-logo="" group-title="Canais | Abertos",TV Cultura HD
+http://dnsl.me:80/5104215/3138192/48981
+#EXTINF:-1 tvg-id="" tvg-name="TV Cultura SD" tvg-logo="" group-title="Canais | Abertos",TV Cultura SD
+http://dnsl.me:80/5104215/3138192/48962
+#EXTINF:-1 tvg-id="" tvg-name="TV das Artes" tvg-logo="" group-title="Canais | Abertos",TV das Artes
+http://dnsl.me:80/5104215/3138192/48978
+#EXTINF:-1 tvg-id="" tvg-name="TV Diário FHD" tvg-logo="data:image/png;base64,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" group-title="Canais | Globo",TV Diário FHD
+http://dnsl.me:80/5104215/3138192/49520
+#EXTINF:-1 tvg-id="" tvg-name="TV Diário HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJcAAABgCAMAAAAn1hDqAAABvFBMVEX///8MYTcxtS769xYMjLMOrNv49BcAXTAMm8fMABv68BUKhasOoc0NptL1+ff47RW8ACHDACCz3rMosiT46RT55RXHAB1xmoT43BT2yRDyuQ/31RH0vg764hX2zxKwACYKd5hNvEuiASjZ7tiEEC6UCiuoACd/EjHuqwu2ACMJbo6bBSrxsgthjHT8+sgAVyXG1s7+/Or789Tj6uX++tAbaUIIY4JzFDLCAABBeFkyc1GJzYekvK///vV7zuv35i787rz17O/unwnC5MGJqpjs+OtMhWfU3d73+KiyxIQubW8AUW9gkKOhu8b6+X6kuzcTY2yFq7r7+ryzxS35+FuXtEEAWIJEi6asz9rf5ik/gYLS3q3h516VwNL//Z95n0Zsml5fpb3G2T2ArWKQrlkXcmtRvN0Ze4tUmX4AbJhYmXGl3vCiwGHV7fPB1XHpz9J2RmJGZopxJ0VTUnllgZvPsbiuhJCDPVZlL07GhZKEABCaYXH54YGiPE+9b4HywzbywU/45JvZchTqsmPjhQ3IPhuaABPrv6DyzHzln6/cfG3tw43sucfcRhbAVmrcXRi7M0jNRkalAABuyGxAqEKfAAAKGklEQVRoge2b/18TRxrHB4PZILAkCqTWL4AJIMU1G9eVZElsAyF6vWpPDqv2hGuqVanHpUpRuTvRUuTkqkjLP3zPzDzP7GzE++Ha3fhDP69a9tvMvud5nvnMrC9k7LdV2bngmL9xn79eZy/+4dM/nvvs0oVWgwR0+nL88z+d4/roynsTs/JsPBb78znSR1ecVhNxlS/OxWKx+DeSievc4HzLycqznCoWu/qFZAINgq5dby3Vxbigit34UoMSurbUMqr8X27GUFeDUIODnYOd862ZAPmFm3/FaMXiXy0O6uoUqrfAM/IL8XjxawrXXObKtSATqL29PeoqO7MAkbr9JWHFbi4x81JdYxJU7e3R5jK/wOfgjU9vKa5bg1eA7EJdQ0LdiQ5rtkew3P5CpTH2DRT9Z1BNS/X2AFUikYgKrLyAznD37o04Kia9q37BZEvzPllC6E4kqSxfxhB9vniPsOI3aDbWwbSW5hOdiCR1Pgouwop9u3hLhetr5RKdnMw8r1F1dSXuh481S1jxu4t/ixHX1UXfI9plzLqJCpQI3frzc8R141L97wdItxcDvsXNYamOUF3d3V3nwy6xWZW6uTK7TFixrxZ144L/rpvMvI5UXGEH7LJK3WWYASpe3wbdFPxUJPMOUnV3h1z65TnFtQA57UERl+5c7bAFM89LsP37Q05keS4eP8CxDsQuAtcB4rr3FhWoC6bhfBdAgcKO18cqdbMaV8/Z62/7PDcuk90XWPtD9tZ8j8Z1Zq63p7e3B/70nmUmrEABJmn1S2wpGi4A42w9nOvjXtJZuAdknUEqUPdS47tEJFxUUqebuUDX60Eq7hMPsg/bw+c6EODqIyEXeNYd3+WlEg+yTxKhc/XykhLakwvI5rt0Ku4TD0afhM7Vp1LHuY6RzmrPmPUgVnd358Ry6Fyo/8EFZXYnoYxegj2sR8TVJ7g+IAW5+D7Hh+I2sfh9yFzHjvX1iQhxriPv4oKlsUujAnWHzPUBZa6Pc3FxrCOnmx9c+e5B135d4W4N8ypCikuoOV6PJkYnlgNg4S6QPtexAFcwXo3H2YmJidEn7dHF6wjW1BHOdVxpVn9oZTQ7OjrKwToj5CJ98g6uyqNslnMB2MTDRcUV7l8I5IFBUB3nXIeVLqonVoaHhxEMyLLfE1e4G+m8H6IA1w94v7L6j2EJJkP2z8Z9dIqQ96vHiURwHSX9S95eeTo+PExgoEcme/Qgiv2Xz3UYuI4GuSprmyfGNbDHDVZ5PJpdjoLrsMaVf/ah0NEPBdfKU47lg61W2MpjSGd2uTvs6cjKz1SIfmBnkAv0jDXWRkZOcCFZtgHuKrM5uhwtV/75KdLz1fFN5JIxW6twd0UNL4c8HVn5+SkKkcZ1cj25OTYwMkIR23y6wsyV7HCWp1Nk9VK4WIz9qEL0ErhOCm28GBvgGkGyzW0o+EfDvsa3Qv8bsH9PAQhylX+E46mNF8kxLkU2vgUr5FM1AcZPZFfCpoIXbpxEAdfLKU7FpcgGBniwVuXMFNp82ggfi1X+M0VcZfbT+otUMqnAAGpsYAUKfu2EL57UKPTq9ZTU88rWQEcqldTJxjjE1viAqDNeaiMnViOhAq0V1jc2NtbfvEgW+vtTQkiW3HkFid7elGXGNcCvRKTKTqFDqp9LgaWSa1BZWztYZlyba9HkUKoRBMOYpXYafBqOaRrYipAKVNl+C6z/Z24Oa78kfapkRAUfAOtQkmRvXoI57CR9pfph2Y5clbUA2Oupo8+3dvpTPlZ/hAUf0NYA5bLj9capqfX+AtUZOEf/WCuCJdXYLnCyF282pjbegI+p+k+lCq0KFpLtpApv1tdfY/WTOgqtCxaqsobZ1KBS0U/DPdRYHSt0aGpxCjVVtkYKBclWAKpWp1BXY2375/6O1M72+xIrpUrj1atX70Nd/a7f1VKZ783vzGky7Wqt2mqIt2SWLDeX8963gJVqXhH0K7mmD76lGfyZCTwxDYeOY0vpv6VqSqlTB8W0K9TsXY2YeSF4f2boULN2M3hwUDyRwScmGbNqNc8VKlpV6sO2hNJ4blokW15w0latKJt5tXTJ1BtZ+Gtrdtry5H1sBG/d16RDuyYeTIo+Dh6SZzPMyRlGm5QBR0iShqsgD7lK8tQwclj4Nr/gN3NL+lMCw64Z+Aj8vyb7mW7G4jhDBMgDuntInkB76l4q54leLdljTQbCsRSDRaCBVoZR9RvxwZhVQ+/XcB0tGjrXNEOUoRkeUHWVlYJcsltWM3QKW7srr1SDXDAeRzWC4ABWU6+WKbi4FBPXNJuUFwTXJIYLjqkHlRceJMeTr0hjdflvkQPH0LQZfit41MUjU3Xa5iebZ3p6kosqS5zMqCByLqwuPgfSsqWbThexj5zNbHyFrKZAqmUNFzGe1bRHAWHMoEY24hhuraiNVkxYNqNeLufutCp1OhzKqFgYRZj4iAhDR65cSU4Ccd111bhVaADS9vC9zDEoMjU8smwwE8x4jn65lDgyNEn3qXO/6plT8zOGr2jzqOhyIjjyfUbV9UOICK7tV7ulwlqyKYQi51W9L634FdcQ1bp/5A+Xv87EgLWZxGX64crJEcgClkEQU8Qp0sBKBEvVZetVgLFnqs6Ji7xhkh2UwEOilZ4x4nJojCI2Yg5AfVjyp6NswijaTslqo3BgI8/GbnDqOm3+yLl2/TknZxVOwkkT7wjnD2SMuGZwurn+E1BKeNfWbMLz2gwqL7rv2UGTQS5yZEY+SlxkDpMZzTDIIEXGyA9cys09LVwOPprza8qX8Czy4qDJYM79+sKynyQsLDjwDYobY8oADT9jouc21TOmrGpi4MS4awEuI8dXL5pBVhMXjRyXtBnNo5ALywoXz2nml7q08RIZkKOVqosxhD2OvHsPxuMFFpmabWozKK2GJ19b81cnLrSJfT5XJrAw7cqi023CxUpwtNCrhVAZu8eXA3nsYoTMwAwyKZqOFi5V9mQT04prRt9lYBwdMnbTKXlUwib15QSWoDbCViOoYmthVP4MoukDtmrjI9Lq/Cr3bQJiE+DCnQJ24RZpZvEJl1ahJwKdy2YlPFQrhGdZjl9HtBUwXM+ltS3Nmri0Peiuv82g6WCrNNFr+UJDGwOTnNYTwldUyalchQ0bM8efQabXHGSjaAYhDg2xPbloFWjaR+FGSm0MyBNLYsNMRoBcvLBVmnNkEx7bY+9UpCzyrbRW3oEQ7qPdIfOdFNvn2sSWWG0M0mpHxVWlJT6t7A12u7Kpa2qeB75r6L3W/C1+ZndI6KDGNT2kRLOhRh3wnZRbqwpcR+6HYWbhxhiXtqo8dW0rp/bUJVFB8GrT1TfadlHbRJc0hnJGSv+uMjNKZbyU5l8PfLj868HGhx0rLWTb8id9fdCpXcWf4qIF7T2rZKa1i9BHKV3kN+Cj4//5N1qm+gAz9/hIM5u/1oLCi6L1Hh9pzd3+F9pmVRDam8BrAAAAAElFTkSuQmCC" group-title="Canais | Globo",TV Diário HD
+http://dnsl.me:80/5104215/3138192/49519
+#EXTINF:-1 tvg-id="" tvg-name="TV Diário SD" tvg-logo="data:image/png;base64,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" group-title="Canais | Globo",TV Diário SD
+http://dnsl.me:80/5104215/3138192/49521
+#EXTINF:-1 tvg-id="" tvg-name="TV Escola SD" tvg-logo="" group-title="Canais | Abertos",TV Escola SD
+http://dnsl.me:80/5104215/3138192/48966
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar SD" tvg-logo="" group-title="Canais | Religiosos",TV Evangelizar SD
+http://dnsl.me:80/5104215/3138192/48638
+#EXTINF:-1 tvg-id="" tvg-name="TV Furacao HD" tvg-logo="" group-title=" Canais | Esportes PPV",TV Furacao HD
+http://dnsl.me:80/5104215/3138192/63366
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Alagoas FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Gazeta Alagoas FHD
+http://dnsl.me:80/5104215/3138192/48567
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Alagoas SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Gazeta Alagoas SD
+http://dnsl.me:80/5104215/3138192/48568
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Gazeta FHD
+http://dnsl.me:80/5104215/3138192/48569
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Gazeta HD
+http://dnsl.me:80/5104215/3138192/48570
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SP HD" tvg-logo="https://4.bp.blogspot.com/-02UGvCVbggU/XuaRaj-VeVI/AAAAAAAAGUM/7Fjv0FqRVKU5ayqXoD88a66CeM6hKdVlACK4BGAYYCw/s1600/GASETA.png" group-title="Canais | Globo",TV Gazeta SP HD
+http://dnsl.me:80/5104215/3138192/34172
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Sul SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Gazeta Sul SD
+http://dnsl.me:80/5104215/3138192/48571
+#EXTINF:-1 tvg-id="" tvg-name="TV Gideoes HD" tvg-logo="" group-title="Canais | Religiosos",TV Gideoes HD
+http://dnsl.me:80/5104215/3138192/48639
+#EXTINF:-1 tvg-id="" tvg-name="TV Imaculada HD" tvg-logo="" group-title="Canais | Religiosos",TV Imaculada HD
+http://dnsl.me:80/5104215/3138192/48640
+#EXTINF:-1 tvg-id="" tvg-name="TV Justica SD" tvg-logo="" group-title="Canais | Abertos",TV Justica SD
+http://dnsl.me:80/5104215/3138192/48963
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém HD" tvg-logo="https://pbs.twimg.com/profile_images/1122159591326928896/jPyuj2QP_400x400.jpg" group-title="Canais | Globo",TV Liberal Belém HD
+http://dnsl.me:80/5104215/3138192/40633
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém SD" tvg-logo="https://pbs.twimg.com/profile_images/1122159591326928896/jPyuj2QP_400x400.jpg" group-title="Canais | Globo",TV Liberal Belém SD
+http://dnsl.me:80/5104215/3138192/49604
+#EXTINF:-1 tvg-id="novotempo.br" tvg-name="TV Novo Tempo FHD" tvg-logo="" group-title="Canais | Religiosos",TV Novo Tempo FHD
+http://dnsl.me:80/5104215/3138192/48641
+#EXTINF:-1 tvg-id="novotempo.br" tvg-name="TV Novo Tempo HD" tvg-logo="" group-title="Canais | Religiosos",TV Novo Tempo HD
+http://dnsl.me:80/5104215/3138192/48642
+#EXTINF:-1 tvg-id="novotempo.br" tvg-name="TV Novo Tempo SD" tvg-logo="" group-title="Canais | Religiosos",TV Novo Tempo SD
+http://dnsl.me:80/5104215/3138192/49607
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno FHD" tvg-logo="" group-title="Canais | Religiosos",TV Pai Eterno FHD
+http://dnsl.me:80/5104215/3138192/48643
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno HD" tvg-logo="" group-title="Canais | Religiosos",TV Pai Eterno HD
+http://dnsl.me:80/5104215/3138192/48644
+#EXTINF:-1 tvg-id="" tvg-name="TV Pampa RS HD" tvg-logo="" group-title="Canais | Abertos",TV Pampa RS HD
+http://dnsl.me:80/5104215/3138192/48976
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://www.liebeurl.me/logos/ratimbum.png" group-title="Canais | Infantis",TV Ra Tim Bum HD
+http://dnsl.me:80/5104215/3138192/4560
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum HD [Alter]" tvg-logo="http://dnsl.me:80/images/33e61c2b80c89a89beb2f542949754aa.png" group-title="Canais | Infantis",TV Ra Tim Bum HD [Alter]
+http://dnsl.me:80/5104215/3138192/64086
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV Ra Tim Bum SD" tvg-logo="https://www.liebeurl.me/logos/ratimbum.png" group-title="Canais | Infantis",TV Ra Tim Bum SD
+http://dnsl.me:80/5104215/3138192/4561
+#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Rio Sul HD
+http://dnsl.me:80/5104215/3138192/40660
+#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Rio Sul SD
+http://dnsl.me:80/5104215/3138192/48572
+#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Santa Cruz FHD
+http://dnsl.me:80/5104215/3138192/48573
+#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Santa Cruz HD
+http://dnsl.me:80/5104215/3138192/40657
+#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Santa Cruz SD
+http://dnsl.me:80/5104215/3138192/48574
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado FHD" tvg-logo="https://url.gratis/HRgbrY" group-title="Canais | Abertos",TV Senado FHD
+http://dnsl.me:80/5104215/3138192/49605
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado SD" tvg-logo="https://url.gratis/HRgbrY" group-title="Canais | Abertos",TV Senado SD
+http://dnsl.me:80/5104215/3138192/49606
+#EXTINF:-1 tvg-id="" tvg-name="TV Sergipe FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Sergipe FHD
+http://dnsl.me:80/5104215/3138192/48575
+#EXTINF:-1 tvg-id="" tvg-name="TV Sergipe SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Sergipe SD
+http://dnsl.me:80/5104215/3138192/48576
+#EXTINF:-1 tvg-id="" tvg-name="TV Subae HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Subae HD
+http://dnsl.me:80/5104215/3138192/49571
+#EXTINF:-1 tvg-id="" tvg-name="TV Tem Bauru FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Tem Bauru FHD
+http://dnsl.me:80/5104215/3138192/48577
+#EXTINF:-1 tvg-id="" tvg-name="TV Tem Bauru HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Tem Bauru HD
+http://dnsl.me:80/5104215/3138192/48578
+#EXTINF:-1 tvg-id="" tvg-name="TV Tem Bauru SD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV Tem Bauru SD
+http://dnsl.me:80/5104215/3138192/48579
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga FHD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV TEM Itapetininga FHD
+http://dnsl.me:80/5104215/3138192/64192
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga HD" tvg-logo="https://url.gratis/DF3uhY" group-title="Canais | Globo",TV TEM Itapetininga HD
+http://dnsl.me:80/5104215/3138192/64193
+#EXTINF:-1 tvg-id="" tvg-name="TV Vitória ES FHD" tvg-logo="https://url.gratis/4sfn4B" group-title="Canais | Abertos",TV Vitória ES FHD
+http://dnsl.me:80/5104215/3138192/49575
+#EXTINF:-1 tvg-id="" tvg-name="TV Vitória ES HD" tvg-logo="https://url.gratis/4sfn4B" group-title="Canais | Abertos",TV Vitória ES HD
+http://dnsl.me:80/5104215/3138192/49576
+#EXTINF:-1 tvg-id="" tvg-name="TV Vitória ES SD" tvg-logo="https://url.gratis/4sfn4B" group-title="Canais | Abertos",TV Vitória ES SD
+http://dnsl.me:80/5104215/3138192/49574
+#EXTINF:-1 tvg-id="" tvg-name="TVE Bahia" tvg-logo="" group-title="Canais | Abertos",TVE Bahia
+http://dnsl.me:80/5104215/3138192/49377
+#EXTINF:-1 tvg-id="" tvg-name="TVE FHD" tvg-logo="" group-title="Canais | Abertos",TVE FHD
+http://dnsl.me:80/5104215/3138192/48979
+#EXTINF:-1 tvg-id="" tvg-name="TVE RS FHD" tvg-logo="" group-title="Canais | Abertos",TVE RS FHD
+http://dnsl.me:80/5104215/3138192/48980
+#EXTINF:-1 tvg-id="" tvg-name="TVNSports 1 HD" tvg-logo="https://url.gratis/qBww8o" group-title=" Canais | Esportes PPV",TVNSports 1 HD
+http://dnsl.me:80/5104215/3138192/64189
+#EXTINF:-1 tvg-id="" tvg-name="TVNSports 2 HD" tvg-logo="https://url.gratis/qBww8o" group-title=" Canais | Esportes PPV",TVNSports 2 HD
+http://dnsl.me:80/5104215/3138192/64190
+#EXTINF:-1 tvg-id="" tvg-name="TVNSports 3 HD" tvg-logo="https://url.gratis/qBww8o" group-title=" Canais | Esportes PPV",TVNSports 3 HD
+http://dnsl.me:80/5104215/3138192/64191
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Universal TV FHD" tvg-logo="https://url.gratis/Iihizf" group-title="Canais | Filmes e Séries",Universal TV FHD
+http://dnsl.me:80/5104215/3138192/28860
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV FHD [H265]" tvg-logo="https://url.gratis/Iihizf" group-title="Canais | Filmes e Séries",Universal TV FHD [H265]
+http://dnsl.me:80/5104215/3138192/63962
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Universal TV HD" tvg-logo="https://url.gratis/Iihizf" group-title="Canais | Filmes e Séries",Universal TV HD
+http://dnsl.me:80/5104215/3138192/3744
+#EXTINF:-1 tvg-id="" tvg-name="Universal TV HD [Alter]" tvg-logo="https://url.gratis/Iihizf" group-title="Canais | Filmes e Séries",Universal TV HD [Alter]
+http://dnsl.me:80/5104215/3138192/64037
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Universal TV SD" tvg-logo="https://url.gratis/Iihizf" group-title="Canais | Filmes e Séries",Universal TV SD
+http://dnsl.me:80/5104215/3138192/4335
+#EXTINF:-1 tvg-id="" tvg-name="VH1 FHD [H265]" tvg-logo="https://url.gratis/5HR61f" group-title="Canais | Variedades",VH1 FHD [H265]
+http://dnsl.me:80/5104215/3138192/63963
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 HD" tvg-logo="https://url.gratis/5HR61f" group-title="Canais | Variedades",VH1 HD
+http://dnsl.me:80/5104215/3138192/4190
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD [Alter]" tvg-logo="https://url.gratis/5HR61f" group-title="Canais | Variedades",VH1 HD [Alter]
+http://dnsl.me:80/5104215/3138192/63995
+#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 MegaHits FHD" tvg-logo="https://url.gratis/qkEYnw" group-title="Canais | Variedades",VH1 MegaHits FHD
+http://dnsl.me:80/5104215/3138192/49286
+#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 MegaHits HD" tvg-logo="https://url.gratis/qkEYnw" group-title="Canais | Variedades",VH1 MegaHits HD
+http://dnsl.me:80/5104215/3138192/8108
+#EXTINF:-1 tvg-id="" tvg-name="VH1 MegaHits HD [Alter]" tvg-logo="https://url.gratis/qkEYnw" group-title="Canais | Variedades",VH1 MegaHits HD [Alter]
+http://dnsl.me:80/5104215/3138192/63999
+#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 MegaHits SD" tvg-logo="https://url.gratis/qkEYnw" group-title="Canais | Variedades",VH1 MegaHits SD
+http://dnsl.me:80/5104215/3138192/4191
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva FHD" tvg-logo="https://url.gratis/AP3BiI" group-title="Canais | Variedades",Viva FHD
+http://dnsl.me:80/5104215/3138192/4193
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="https://url.gratis/AP3BiI" group-title="Canais | Variedades",Viva HD
+http://dnsl.me:80/5104215/3138192/4195
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD [Alter]" tvg-logo="https://url.gratis/AP3BiI" group-title="Canais | Variedades",Viva HD [Alter]
+http://dnsl.me:80/5104215/3138192/63996
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva SD" tvg-logo="https://url.gratis/AP3BiI" group-title="Canais | Variedades",Viva SD
+http://dnsl.me:80/5104215/3138192/4196
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel FHD" tvg-logo="https://url.gratis/TLYJuX" group-title="Canais | Filmes e Séries",Warner Channel FHD
+http://dnsl.me:80/5104215/3138192/3745
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel FHD [H265]" tvg-logo="https://url.gratis/TLYJuX" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
+http://dnsl.me:80/5104215/3138192/63964
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="https://url.gratis/TLYJuX" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://dnsl.me:80/5104215/3138192/4333
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD [Alter]" tvg-logo="https://url.gratis/TLYJuX" group-title="Canais | Filmes e Séries",Warner Channel HD [Alter]
+http://dnsl.me:80/5104215/3138192/64038
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel SD" tvg-logo="https://url.gratis/TLYJuX" group-title="Canais | Filmes e Séries",Warner Channel SD
+http://dnsl.me:80/5104215/3138192/4334
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WooHoo FHD" tvg-logo="https://url.gratis/SKwdbN" group-title="Canais | Variedades",WooHoo FHD
+http://dnsl.me:80/5104215/3138192/4197
+#EXTINF:-1 tvg-id="" tvg-name="WooHoo FHD [H265]" tvg-logo="https://url.gratis/SKwdbN" group-title="Canais | Variedades",WooHoo FHD [H265]
+http://dnsl.me:80/5104215/3138192/63965
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WooHoo HD" tvg-logo="https://url.gratis/SKwdbN" group-title="Canais | Variedades",WooHoo HD
+http://dnsl.me:80/5104215/3138192/4199
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WooHoo SD" tvg-logo="https://url.gratis/SKwdbN" group-title="Canais | Variedades",WooHoo SD
+http://dnsl.me:80/5104215/3138192/4200
+#EXTINF:-1 tvg-id="" tvg-name="Yeeaah HD" tvg-logo="https://url.gratis/ITGGTL" group-title="Canais | Variedades",Yeeaah HD
+http://dnsl.me:80/5104215/3138192/48609
+#EXTINF:-1 tvg-id="" tvg-name="Yeeaah HD [Alter]" tvg-logo="http://dnsl.me:80/images/b6bee40f6969ef2e9ffb2face3b72068.jpg" group-title="Canais | Variedades",Yeeaah HD [Alter]
+http://dnsl.me:80/5104215/3138192/64003
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo FHD" tvg-logo="https://www.liebeurl.me/logos/zoomoo.png" group-title="Canais | Infantis",ZooMoo FHD
+http://dnsl.me:80/5104215/3138192/62825
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo HD" tvg-logo="https://www.liebeurl.me/logos/zoomoo.png" group-title="Canais | Infantis",ZooMoo HD
+http://dnsl.me:80/5104215/3138192/5995
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo HD [Alter]" tvg-logo="http://dnsl.me:80/images/54395cbe5010a9b4a488a30f24a97471.png" group-title="Canais | Infantis",ZooMoo HD [Alter]
+http://dnsl.me:80/5104215/3138192/64087
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo SD" tvg-logo="https://www.liebeurl.me/logos/zoomoo.png" group-title="Canais | Infantis",ZooMoo SD
+http://dnsl.me:80/5104215/3138192/3839
